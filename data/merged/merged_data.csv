@@ -1,4 +1,4 @@
-Year,Week,Resort,Visitors,State,Maximum temperature (Degree C),Minimum temperature (Degree C),Rainfall amount (millimetres)
+year,week,resort,visitors,state,max_temp_c,min_temp_c,rainfall_mm
 2014,1,Mt. Baw Baw,555.0,VIC,5.022448979591837,-0.33877551020408164,236.2
 2014,2,Mt. Baw Baw,804.0,VIC,4.683673469387755,-0.44081632653061226,125.4
 2014,3,Mt. Baw Baw,993.0,VIC,0.3081632653061224,-2.5530612244897957,634.2
