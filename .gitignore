@@ -1,3 +1,7 @@
 .DS_Store
 
-.venv
+# Virtual env files
+.venv/
+
+# Temp files
+~$*
