@@ -1,0 +1,706 @@
+review_id,resort,full_day_price,avg_rating,review,text_length,label,score
+1,Perisher Ski Resort,1379.0,5.0,"Highly recommended! Me and my family had a fantastic time at Perisher Ski Resort. The facilities were great, and the snow was perfect for all skill levels. I’d especially like to commend the exceptional service at the Perisher Valley Visitor Information Centre. Elise was incredibly helpful, friendly, and knowledgeable — she went above and beyond to make sure we had everything we needed. Her assistance made a real difference to our trip. Thank you, Elise!",458,POSITIVE,0.9998736381530762
+2,Perisher Ski Resort,1379.0,5.0,"Visited Perisher valley, Smiggin Holes.. Which is a ski resort before Perisher. It's best for beginners as it has a few tracks which are not steep and then more for intermediate and more challenging ones as well. Will be back here soon. Snow was great and they were allowing tobogganing on the far right on an empty hill with lots of snow.",339,POSITIVE,0.9917426705360411
+3,Perisher Ski Resort,1379.0,3.0,"Perisher Valley is absolutely magical – the snowfall was incredible and the kids had an amazing time playing in the snow. It’s a winter wonderland and truly a beautiful spot for a snow holiday.
+However, I would not recommend visiting during the peak school holiday season. The traffic was completely out of control. By 8:30 AM, the resort parking was full and thousands of cars were being turned back, with no prior updates or warnings. We saw the same chaos at Thredbo as well.
+We ended up losing our bookings – and a lot of money – due to this poor management. There’s a serious lack of infrastructure and communication to handle peak crowds. It’s clear the area hasn’t been upgraded to support the number of visitors it receives during holidays.
+Go for the snow and scenery – it’s worth it – but avoid the peak season unless you’re prepared for a logistical nightmare.",871,NEGATIVE,0.989859402179718
+4,Perisher Ski Resort,1379.0,2.0,"We do the skiing once a year during the last 9 years, never experienced the full capacity (due to the parking). When we arrived at 12pm on Saturday, we got advised by the police that it was full. We heard the situation is based on one car out followed by one car in. I can see many cars were leaving Perisher Valley Resort, but no car was allowed to go in. I was so frustrated with the situation as I have already bought the lift tickets for the whole family. We went to the restaurant near the checkpoint for lunch and resting. At around 2pm, suddenly it was allowed to go in. We were lucky to be in the first group to drive in. When we arrived at the Perisher Valley Ski Resort, it was so easy to find parking, inside the rest area where people eat and rest, it was less busy as well. I struggle to appreciate the reasoning of denying the access for a few hours. Totally unnecessary. In the past the ski resort was much busier, never denying people for access. I tried to email Perisher Ski Resort to check if it was possible to transfer the lift pass from day time to evening time, unfortunately no response. On Sunday, we deliberately got there early just in case of denied access due to the full capacity. Luckily I didn't see the police checkpoint. When arrived at Perisher Ski Resort, it was very difficult to find parking. It took me over 35 minutes. Overall I did enjoy the beautiful moments on the snow, but not a good experience in terms of denied access on Saturday.",1478,NEGATIVE,0.9989678859710692
+5,Perisher Ski Resort,1379.0,4.0,I think Perisher does a good job given the constraints nature deals it. But they do need to provide more parking. It would be great if they invested in more wind tolerant lifts and more toilets.,194,NEGATIVE,0.9978741407394408
+6,Perisher Ski Resort,1379.0,5.0,"We had a fantastic family trip to the Perisher valley mountain! The kids loved tobogganing down gentle slopes and building snowmen. There were easy trails perfect for beginner skiers, and we even had a short ski lesson together. The snow play area was safe and well managed, with lots of space to run around. We enjoyed hot chocolate in the warm café while watching the snow fall. The views were stunning, and everything was well organised for families. It was a great place to make winter memories, and we can’t wait to come back next year for more snow fun! Of all, kids had a great time and are keen to do more skiing.",621,POSITIVE,0.9997963309288024
+7,Perisher Ski Resort,1379.0,1.0,"My experience at Perisher was unfortunately the worst I’ve had at any ski resort.
+I had pre booked my snow gear (board and boots) online, yet I still had to wait in the same queue as everyone else, with no dedicated line for online bookings and an insufficient number of staff at the pick up counters. This completely defeats the purpose of booking ahead and reflects poor service management.
+Additionally, I’ve never been to a ski resort where the lifts have no leg rests. This felt unsafe for both children and adults, especially as the safety bars kept lifting unexpectedly. Having to carry the snowboard attached to my foot caused significant knee pain, which lasted for days.",680,NEGATIVE,0.9997977614402772
+8,Perisher Ski Resort,1379.0,5.0,"Our family booked ski lessons at Perisher, and we had a 2-hour session with a lovely instructor named Ashley, who came all the way from Scotland. She was really nice and did a fantastic job managing even our 6-year-old boy, helping us all enjoy skiing in such a short time. It was a truly meaningful experience, and I’d like to express our gratitude to Ashley once again!",371,POSITIVE,0.9998620748519896
+9,Perisher Ski Resort,1379.0,5.0,"Incredible ski destination with well-groomed runs and stunning scenery. There’s something for every skill level, and the facilities are excellent. Always a great experience.",173,POSITIVE,0.9998824596405028
+10,Perisher Ski Resort,1379.0,4.0,"It’s a lovely place for both beginners and seasoned skiers. There’s a dedicated child-friendly zone, making it perfect for families. The snow-covered slopes were well maintained, and there are plenty of snow play areas to enjoy beyond skiing. The resort is well-equipped with cozy cafés and restaurants nearby, so you can relax and warm up between runs. A fantastic alpine experience all around!",395,POSITIVE,0.999831199645996
+11,Perisher Ski Resort,1379.0,3.0,"I came to perisher to ski for the first time, but I found it was quite overpriced for lift tickets and rentals. The lack of signs made it hard to find your way around, especially if you've never been there before. They had lots of options from first timers to very experienced skiers/boarders. The food places were way overpriced and pretty average tasting. Most restaurants didn't even accept cash. It was fun but not great value. Also, I don't recommend toboganning here as they don't have a conveyor belt to get back up the hill, so it was very tiring climbing back up.",572,NEGATIVE,0.9979339838027954
+12,Perisher Ski Resort,1379.0,1.0,"As a single parent, I saved and sacrificed a lot to be able to afford the expensive lift tickets so my kids could spend one day at Perisher skiing with their friend for my son’s birthday present. However, we were told there was no parking, which apparently happens a lot and they know it happens but don’t say anything about it on the website or warn you when you purchase tickets. Due to a medical condition, taking a bus as an alternative was NOT possible. They were NOT allowed to enter even to drop off the kids to ski! So the lift passes could NOT be used! Perisher is IMPOSSIBLE to contact as they do NOT HAVE A WORKING PHONE NUMBER. Even Experion does not have a valid phone number. Their online chat was useless and unhelpful. They said they would send an email with information but never did. Perisher is a SCAM!!! It ruined my kids’ holiday, which they were looking forward to all year, and I saved and sacrificed so much to be able to provide them! This is a SCAM and a FRAUD!!!! NEVER GO TO PERISHER, NEVER BOOK LIFT PASSES WITH THEM!!!!!!!! YOU WILL WASTE YOUR TIME AND MONEY AND BE LEFT WITH ONLY TEARS AND DISAPPOINTMENT!",1136,NEGATIVE,0.9984487295150756
+13,Perisher Ski Resort,1379.0,3.0,"We visited Perisher last week and found it overwhelmingly busy. Lift pass queues were frustratingly long, and once on the slopes, the heavy traffic made it difficult to enjoy the snow. It often felt crowded rather than relaxed, which took away from the overall experience.
+Another surprise was the lack of facilities — there weren’t many places to sit down, put on boots, or get sorted before hitting the slopes. Even something as simple as more benches or undercover areas would go a long way.
+For family members who aren’t skiing, it was hard to find a comfortable spot to sit, stay warm, and just enjoy the mountain atmosphere. A quiet area to read a book or take in the view would’ve made a real difference.
+Perisher has a great location, but the crowding and lack of practical amenities made this visit less enjoyable than we’d hoped.",839,NEGATIVE,0.996188461780548
+14,Perisher Ski Resort,1379.0,5.0,"A large interconnected Ski Resort with a variety of terrain difficulties and beautiful views.
+During my most recent visit (15/7/25 to 18/7/25), conditions varied from frigid, windy and snowing to beautiful and sunny as seen in the attached photos. Snow levels were approximately 160cm at peak. Ski seasons are very variable in Australia due to climatic patterns and the effects of climate change.
+The new Mount Perisher 6 Chair is very comfortable and significantly quicker than the chairs it replaces. A welcome upgrade.
+Food on the mountain is expensive as you would expect from a Ski Resort but is generally okay with some particularly good restaurants available (See other reviews).
+Crowds can be intense during the School Holidays and this period should be avoided if possible. Perisher staff are usually deployed to manage crowds. Avoid beginner slopes if possible as these will be more crowded.",901,POSITIVE,0.9995918869972228
+15,Perisher Ski Resort,1379.0,3.0,"I would like to share a disappointing experience I had at Perisher Resort.
+Yesterday, I purchased a morning lift ticket at around 11:00 AM from the ticket counter. The staff did not inform me that this ticket was only valid until 1:00 PM, and that it might be better to purchase an afternoon pass instead due to the time.
+Later, I realized the limited validity of the morning ticket and returned to ask if I could change to an afternoon ticket. I was told this was not possible, and that I would have to pay an extra $34 for a full-day ticket.
+After reading through the lift ticket terms and conditions on the official Perisher website (as shown in the attached image), I couldn’t find any policy that explicitly prohibits changing the time slot for a same-day ticket — especially when the ticket was purchased shortly before the morning session ended.
+I believe this miscommunication cost me an extra $270 unnecessarily, and could have been avoided with a simple explanation or recommendation from the staff.
+As someone who does not speak English fluently and was visiting Perisher for the first time alone, I feel that the staff should have made the situation clearer.
+I hope Perisher Resort can improve the communication and ticketing process to help guests — especially international visitors — make more informed choices.
+Thank you for your understanding.",1360,NEGATIVE,0.9996229410171508
+16,Perisher Ski Resort,1379.0,5.0,"I had a ski lesson with Ping at Perisher, and she was fantastic! These lessons are all run very professionally by incredibly knowledgable Perisher staff. I would highly recommend this to all beginners before hitting the slopes, to help build confidence and learn important ski fundamentals.",290,POSITIVE,0.9994949102401732
+17,Perisher Ski Resort,1379.0,2.0,"Vail group has made it clear that you should not expect any refund to costs in the event that you get sick or injured while visiting.
+My child got sick and missed 30% of her trip.
+Vail has refused a credit for this period as it was both after the start date and she was well enough to finish the trip.
+Might need to look at alternatives in VIC for future trips if this is the 'service' given when issues occur.",410,NEGATIVE,0.9838303923606871
+18,Perisher Ski Resort,1379.0,5.0,The best experienced i had in perisher valley. It was better than thredbo .We were here only for few hours as we were denied entry because of parking capacity full then we decided to came later around 3pm . It was snowing as soon as we entered the area . This was the best snow of all time .,291,POSITIVE,0.9995860457420348
+19,Perisher Ski Resort,1379.0,1.0,"My mother is a single mother and she saved and saved up money for a whole year and when my birthday finally came, we couldn’t even get in because they had closed of the car park and we couldn’t get in. I was so sad and they never gave us a refund. It completely ruined my birthday and all we could do after that was drive all the way back to Sydney.",349,NEGATIVE,0.9995995163917542
+20,Perisher Ski Resort,1379.0,5.0,The staff were great in the hire shop and very patient with all the customers. The staff that taught the little kids how to ski were amazing and really friendly and helpful to everyone. Made for a great time and experience,222,POSITIVE,0.9998581409454346
+21,Perisher Ski Resort,1379.0,4.0,Beautiful location had plenty of snow. I wish there was an area with a big fireplace or something to warm up as it was so cold! The lodge area was not heated so there was little reprieve from the cold and limited food options.,226,NEGATIVE,0.9972344040870668
+22,Perisher Ski Resort,1379.0,5.0,"All the shops and services eg ski hire are good quality, friendly and helpful with equipping skiers with the best gear. Plenty of places to eat. Handy iga supermarket",166,POSITIVE,0.999631643295288
+23,Perisher Ski Resort,1379.0,4.0,"One of the localised places on the hill, ski in ski out (sort of). Beer and food at amusement Park prices, its got a a few options for food and drinks, chinese middle Eastern. Cafe. Plenty of seating. Pool tables. Bathrooms. I didnt stay in any of the rooms, but it looks OK.",275,POSITIVE,0.999394416809082
+24,Perisher Ski Resort,1379.0,2.0,"Very disappointed with Vail Resorts.
+Customer service is terrible.
+Tried to talk to someone in management. They now only have AI chat bots to talk to. No phone number. And there offices have been closed down.
+What’s life coming to when you can’t speak to a human and only AI is available.
+Another gripe is that Perisher is short staffed. Cafes often have a 45 minute wait for a coffee.
+Perisher took over all of the private run food on the mountain. Now close the places at a drop of a hat.
+The mountain is not the same.
+Also the maintenance of lifts, buildings, toilets doesn’t happen.
+The place is falling apart. Afraid of a major incident occurring on a lift.",662,NEGATIVE,0.9995860457420348
+25,Perisher Ski Resort,1379.0,1.0,"Disappointed experience. The kids’ ski lesson was poorly run — the instructor barely taught anything, and there was no feedback or follow-up. We were also forced to buy a lift ticket for the lesson, even though beginners don’t use the lift. It feels like unfair bundling.
+Non-skiers in our group bought lift tickets too, but weren’t allowed to ride the lift without ski gear — this wasn’t mentioned on the website, so we wasted over $400.",438,NEGATIVE,0.9997889399528505
+26,Perisher Ski Resort,1379.0,5.0,Perisher is a good resort. Large Snow play area for the little kids who aren’t skiing. During peak season parking gets full by 10AM. Decent food options.,153,POSITIVE,0.9996128678321838
+27,Perisher Ski Resort,1379.0,5.0,Snow much fun ! On Saturday we got the chance to see fireworks. You can hire snow gear and get passes for traing ⛷️ skiing. You can hire toboggan from Rythm signings. Entry fee for the car is $30. We had lot of fun.,215,POSITIVE,0.9961509704589844
+28,Perisher Ski Resort,1379.0,5.0,"Easy to get to on the bus. Lots of people and a real buzz. Don't take your car, the lot is full before 7am. Stay at Jindabyne if you're doing a cheap holiday. The resorts are $$$$$.",181,POSITIVE,0.8542937636375427
+29,Perisher Ski Resort,1379.0,4.0,"Was a great ski ⛷️ experience. There are a lot of people during season time that’s a challenge for young inexperienced skiers.
+Great open spot available for tobogganing. ",170,POSITIVE,0.9995759129524232
+30,Perisher Ski Resort,1379.0,3.0,"Subject: Safety Concern at Perisher Ski Resort
+Dear Perisher Ski Resort Team,
+I’m writing this review in the hope that it prompts some changes to improve safety on the slopes. Currently, it appears that anyone — including those who have never skied before — can simply arrive at the resort, rent equipment from outside vendors, park, walk in, and head straight to the lifts without any skill check or guidance.
+There seems to be no procedure or regulation in place to ensure that visitors have at least basic skiing or snowboarding skills before accessing the slopes. This lack of oversight increases the risk of injury — not only to inexperienced individuals but also to others on the mountain.
+For example, a young lady had a loose snowboard hit her spine while she was sitting and listening to her instructor. The owner of the board had no idea how to ride it or how to place it face down so it doesn’t slide down the slope and hit someone.
+I strongly suggest introducing a process to verify that all guests have at least basic ability before they’re allowed on certain slopes. Even a quick assessment or dedicated beginner check-in area could go a long way toward preventing accidents and making the resort safer for everyone.
+Overall, I had a great time :).
+Thank you for considering this feedback.",1303,NEGATIVE,0.9994884729385376
+31,Mt Buller,1649.0,4.5,"Mt Buller is hands down one of the best ski resorts near Melbourne! I’ve been coming up every Sunday and it never disappoints — the slopes are well-maintained, and the overall vibe on the mountain is energetic and welcoming. My daughter has been taking private lessons, and her coach has been incredible — patient, knowledgeable, and genuinely invested in helping her improve. The progress she’s made has been amazing to watch. Whether you're a beginner or experienced skier, Mt Buller offers a fantastic snow experience for everyone. Highly recommend!",552,POSITIVE,0.9998619556427002
+32,Mt Buller,1649.0,4.5,"Mount Buller in winter truly casts a spell! Even amidst a gentle mist, the pristine snow-covered landscapes and the crisp, invigorating mountain air weave an unforgettable tapestry of romance. From the shared thrills on the slopes to the cozy warmth by a crackling fire pit, and the breathtaking scenic chairlift rides offering intimate glimpses of the surrounding beauty, it's an absolutely incredible and deeply romantic alpine escape in Victoria. We're creating the most beautiful and cherished memories at Mount Buller this year. Five stars to Mount Buller for these overwhelmingly positive vibes and the most wonderfully romantic moments. I cannot express how incredibly grateful I am for this enchanting experience.",721,POSITIVE,0.9998620748519896
+33,Mt Buller,1649.0,4.5,"What a magic adventure. We decided to take our whole family skiing this year, and we had a ball. We were lucky with great weather but most importantly the process of getting on the mountain and set up with gear and skis and the girls into ski school was awesome. It made everything easy and reduced any stress on our first time skiers. Thanks to the whole team for making it so easy and so much fun 👍🎿😁",402,POSITIVE,0.9997515082359314
+34,Mt Buller,1649.0,4.5,"Experience at Mt Buller with kids, should try 1 time in their life to get fun. Freezer, cooler than Europ because the winder with ice.
+Choose good model coach to get less tired for long trip around 4 hours drive, it is cheaper than use your all car and comfortable.
+Can bring your all food, snack or hire snow clothes
+Enjoyed",325,POSITIVE,0.8436200022697449
+35,Mt Buller,1649.0,4.5,"Awesome.
+Best thing is the accessible in all weather that make it a wonderful destination choice for the tourist and locals to spend time and enjoy the great outdoor activities like skiing, snowboarding and similar activities.
+A wonderful and memorable day spent ✨️ 💖 💛",269,POSITIVE,0.9998348951339722
+36,Mt Buller,1649.0,4.5,"I recently spent a long weekend at Mt Buller and honestly, I didn’t want to leave. The whole experience felt like stepping into a snow globe – from the moment we arrived, everything was covered in soft powder and the village had this cozy alpine charm.
+
+The ski runs were well maintained and there was a great mix for all levels – I’m more of an intermediate skier, but my partner is a beginner and we both found slopes we loved. The lift lines were manageable even during the weekend rush, and the staff were friendly and helpful (especially the folks at the chairlifts – kudos to them for keeping things moving in the cold!).
+
+The village itself had everything we needed – warm coffee shops, surprisingly good pizza, and a few pubs for après ski. We stayed in one of the lodges close to Bourke Street and could basically ski in and out, which made a huge difference.
+
+That said, Mt Buller isn’t without its flaws. The resort can get very crowded on weekends and during school holidays, which means longer lift queues and busier slopes, especially around the main runs. Accommodation and food are on the pricier side — pretty standard for Aussie snow spots, but still something to factor in. Parking and access can be a bit of a mission too; if you’re not staying overnight, getting up the mountain and catching the shuttle with all your gear isn’t exactly seamless. And depending on the season, snow coverage can be a bit unpredictable — best to check the forecast before booking.
+
+Still, despite the few unavailabilities and bad let-downs, Mt Buller totally lived up to the hype. Whether you're a first-timer or a seasoned skier, it’s well worth the trip. Already planning our next visit.",1691,POSITIVE,0.9995977282524108
+37,Mt Buller,1649.0,4.5,"First Snow experience! Was hoping for snow fall during our visit. But we loved our experience. Kids all had fun, specially the kids at heart! The snow in the public areas are somewhat compacted, it's been a few days since the last snowfall and lots of visitors arriving everyday.
+We went down to the trail heads and found untouched snow for the kids to play around. We made snowmen, snow angels and had a snowball fight! Looking forward to coming back again!",458,POSITIVE,0.9996393918991088
+38,Mt Buller,1649.0,4.5,"Always a delight to go to Mt Buller during the snow season. Well maintained pathways, ample of parking spots and organised traffic management team makes it all so much easier.",175,POSITIVE,0.999636173248291
+39,Mt Buller,1649.0,4.5,"Fantastic place to spend a day. Weather and snow conditions were perfect, lift queues were reasonable.",102,POSITIVE,0.9998419284820556
+40,Mt Buller,1649.0,4.5,Beautiful Mt Buller. Only 3 hours from Melbourne. With Ski in Ski out accommodation and more. Wonderful staff with plenty of runs for all levels of skier.,154,POSITIVE,0.9996289014816284
+41,Mt Buller,1649.0,4.5,Snow beautiful fresh and winderful experience. We visited this place hoping to ski but found the trauma of skiboot fitting hurt ankles previously fractured so to the walk carrying skis to the learning area took all strengh. Would recomment others that are less fit to get assitance to not spoil their day. Ours left us thinking we were past it but will try again only 59 so many more years left to try again,407,POSITIVE,0.5979878306388855
+42,Mt Buller,1649.0,4.5,I had the best time at Mt Buller! Great mountain with plenty of runs for all levels. Stunning views and amazing atmosphere—can’t wait to return!,144,POSITIVE,0.9997788071632384
+43,Mt Buller,1649.0,4.5,I just attended today 30/06 afternoon snowboard group lesson. Instructor Adam was amazing and guided us with patience. Highly recommend newbie to come and learn from him!,170,POSITIVE,0.9997510313987732
+44,Mt Buller,1649.0,4.5,"Closest and most convenient location to ski in from Melbourne.
+
+Would not recommend during school holidays in the peak season, it's absolutely over crowded.
+Ideally try to go during weekdays as it's much less busy and try go early.
+
+Overall it's a nice location to ski at and spend time with family, especially for beginners and intermediate skiers.
+
+We also visited during summer, it was very quite and near everything was closed, but it was nice scenery and very nice walk to the peak summit.",494,POSITIVE,0.9988000392913818
+45,Mt Buller,1649.0,4.5,"The first snow experience in my life unexpectedly happen in Mt Buller. Having a wonderful time here with my sister. Even there was snowstorm where riding the chairlift
+Toboggan ride was very entertaining with the child’s crowd. It was a very cool and unforgettable experience. Wanna explore more if I got the chance to come next time
+
+The documentation was taken in early of August 2024",386,POSITIVE,0.9996927976608276
+46,Mt Buller,1649.0,4.5,"I have been coming to Mt Buller for over 50 years. Such a beautiful place in both winter and summer. So much to see, do and enjoy. Just returned from 11 nights with my 3 children.",179,POSITIVE,0.9997132420539856
+47,Mt Buller,1649.0,4.5,"A great fun ski resort. A wide range of runs, well serviced by an excellent team of Ski Patrollers, Lifties and Instructors. Very good restaurants and another shops.",165,POSITIVE,0.9998213648796082
+48,Mt Buller,1649.0,4.5,"2025, what a season! Mt Buller hosts as a great ski adventure trip! We stayed off the mountain in Merrijig but it was a quick 30 min drive to the mountain. Being able to pre-purchase everything made our experience quick and easy once we arrived and we were able to hit the slopes asap! Staff are all super friendly and helpful and keep the vibes high! Had a snack at Koflers Hutte, awesome serving of Nachos!",408,POSITIVE,0.9987391829490662
+49,Mt Buller,1649.0,4.5,Would highly recommend taking a trip to Mt Buller. Such a beautiful mountain and so much to do. I will definitely be visiting again soon.,137,POSITIVE,0.999707043170929
+50,Mt Buller,1649.0,4.5,"What a great experience Mount Buller was. It was below 3°C, but thanks to constantly moving and wearing the right clothing, we never got cold. What a beautiful place.",166,POSITIVE,0.9996799230575562
+51,Mt Buller,1649.0,4.5,Great start to the 2025 season with a beautiful sunrise and kangaroo 🦘 hoping across the Mt Buller road.,104,POSITIVE,0.9991094470024108
+52,Mt Buller,1649.0,4.5,Great ski resort just over 3 hours drive from Melbourne!,56,POSITIVE,0.9980775117874146
+53,Mt Buller,1649.0,4.5,"The trip by car and driving myself from melbourne to mount buller in july was very enjoyable, beatiful snow, impressive , realy like it&love this place ..😍🥰",156,POSITIVE,0.999868869781494
+54,Mt Buller,1649.0,4.5,"It’s tough to give a full 5-star rating. This was our first time skiing in Australia, and we were excited to visit Mt Buller during its 100th anniversary. To ensure good snow, we chose mid-August, one of the busiest times. However, the snow conditions weren’t as great as we hoped, likely due to the weather. Crowded areas had a lot of slush, like the lift queue areas, though the staff worked hard to maintain them. The weekend crowds led to long lift lines, and at $220 a day, I found the lift tickets overpriced. I know weekday prices are better, but for full-time workers, there’s little choice. Skiing in Australia is a unique winter experience, but overall, it didn’t fully meet my expectations.",701,NEGATIVE,0.9975831508636476
+55,Mt Buller,1649.0,4.5,"Absolutely amazing
+snow days are just magical kids",50,POSITIVE,0.9998828172683716
+56,Mt Buller,1649.0,4.5,"3 hours drive from Melbourne CBD. There are lots of thing to do on the mountain, from generic sight seeing to skiing etc. Good food and coffee options. Free Shuttle and big car parks make the overall experience hassle free. Overall a good spot for fun and a good day trip!",272,POSITIVE,0.9987297654151917
+57,Mt Buller,1649.0,4.5,"I went here in July, where the weather is super cold but i had great time on Mt.Buller. I recommend trying out the sightseeing lift for 42$, totally worth it. The toboggan is 15$ and it is really fun. If you dont ski or snowboarding, then just go up here and have fun, taking pictures, also you should do toboggan and sightseeing lift.",335,POSITIVE,0.9997298121452332
+58,Mt Buller,1649.0,4.5,"11/2022
+
+“ We're all like snowflakes, all different in our own beautiful way. “",79,POSITIVE,0.9998148083686828
+59,Mt Buller,1649.0,4.5,Awesome place to visit during snow season 😀.,44,POSITIVE,0.9998596906661988
+60,Mt Buller,1649.0,4.5,"We were very lucky. It snowed lots while we were there, a very beautiful place.",79,POSITIVE,0.99984872341156
+61,Mt Stirling,959.0,4.6,"Sim has done a great job on the cafe and ski hire, and was really helpful and friendly to us. Patrol was super friendly and helpful as well. We camped up there for the snow storm, and skied around. It's a great place, escape the mad crowds, go for a slide on some trails, camp out.",281,POSITIVE,0.9996848106384276
+62,Mt Stirling,959.0,4.6,"Rode in from King Saddle Shelter with a large group. Tracks are well signed and maintained throughout and access to the summit was clear and easily accessible. Absolutely coming back again
+",189,POSITIVE,0.9996896982192992
+63,Mt Stirling,959.0,4.6,"Great Snow, and views were amazing!",35,POSITIVE,0.9998780488967896
+64,Mt Stirling,959.0,4.6,"It's very high. Like very high in the sky yanno.  There was no actors or list hikers this time.
+
+Once upon I opened my door up on the summit and it was that windy it nearly got ripped off like Mary poppins with her umbrella but kind of not at all.  Yeh it's cold up there aswell quiet often.   Did I mention it's good tho? It's good 👍",334,POSITIVE,0.9227726459503174
+65,Mt Stirling,959.0,4.6,"Great mountain for Cross country skiing, but can be a bit steep in sections.
+Also really good for snow play and tobogganing if the snow is down to the cafe",155,POSITIVE,0.9835789799690248
+66,Mt Stirling,959.0,4.6,"Beautiful mountain in all seasons. The best tree in all of Australia, Craig's Hut and 360° views across the Australian Alps. Telephone Box Junction is great parking and then just a fairly easy 4.5km walk to the summit. The camping area around Bluff Spur Hut is terrific. My favourite mountain in Australia.",306,POSITIVE,0.9997197985649108
+67,Mt Stirling,959.0,4.6,"Sliim was fantastic during our trip. He drove us up and down so we didn’t have to walk or cover too many kilometers, which saved us a lot of time and energy. That made a big difference, especially when we wanted to enjoy more of our day without being worn out from long walks.
+
+He also gave us excellent recommendations on places to go and things to do. Every suggestion was spot on and made our experience better. Sliim was always friendly, respectful, and easy to talk to, which made the whole trip more enjoyable.
+
+We were very happy with his help and would definitely recommend Sliim to anyone looking for reliable and kind transport.",638,POSITIVE,0.999783456325531
+68,Mt Stirling,959.0,4.6,"Walked the Summit Interpretive Loop (12kms and about 3 and half hours) was a great walk, Uphill to start with so watch out. Gradient eases off and become a gentle uphill. Great view back to Mt Buller and the alps once at the summit.",232,POSITIVE,0.9943934679031372
+69,Mt Stirling,959.0,4.6,"Decided to do an overnight hike to Mount Stirling after realising that the Alpine National Park was closed due to the proximity of surrounding bushfires. We parked at Telephone box junction which was easially accessible via a gravel road. We had hiked to a hut and set up camp below the summit which took just over an hour. For the ease of the hike and accessibility of the track, Stirling offers magnificent panoramic to hikers and bushwalkers of all experiences levels.",471,POSITIVE,0.9977656602859496
+70,Mt Stirling,959.0,4.6,A must visit when you are travelling around Mansfield area. Simply breathtaking views and plenty of things to explore including Craig’s hut.,140,POSITIVE,0.999800145626068
+71,Mt Stirling,959.0,4.6,The only cafe on the entrance of Mt Stirling Ski facility. a warm place with a good food and a great coffee,107,POSITIVE,0.9995218515396118
+72,Mt Stirling,959.0,4.6,"What a horrible cold place with no view.. hahaha bit of a white out when we were there.. but it was the only day she could have off. Go on a nice day and you will get awesome views. Walk up to both summits for a much different landscape views.
+Even from the track you can look back at Mt Buller.
+And thankyou to Mt Stirling management for moving the sign away from the tree. Its much better down by the track than near the tree.",428,POSITIVE,0.9985983967781068
+73,Mt Stirling,959.0,4.6,Awesome top-of-the-world views!! Definately the best way home from Craigs Hut. Track recently graded so easy to do with a std 4wd,129,POSITIVE,0.9996309280395508
+74,Mt Stirling,959.0,4.6,"Yes, loved it. Great day, great view and great trip all round",61,POSITIVE,0.9998831748962402
+75,Mt Stirling,959.0,4.6,A great walk to the summit from the King Saddle Shelter.,56,POSITIVE,0.986549973487854
+76,Mt Stirling,959.0,4.6,"Parking was a mess
+Not recommended",34,NEGATIVE,0.9997166991233826
+77,Mt Stirling,959.0,4.6,Well worth the drive. Spectacular views,39,POSITIVE,0.999875545501709
+78,Mt Stirling,959.0,4.6,Great view of the expansive Victorian high country,50,POSITIVE,0.9997770190238952
+79,Mt Stirling,959.0,4.6,Beautiful.. but you'll need a 4wd if driving there,50,NEGATIVE,0.8779073357582092
+80,Mt Stirling,959.0,4.6,"The beauty of Buller district is that it can be raining, or even dry and Clear one day, and snowing the next. If your lucky enough to get Lots of fresh snow, there are plenty of tracks to choose from and little crowds. Many spots to camp if you're prepared to brave a cold night and take your own pack.
+The staff at Telephone box junction are all friendly and very helpful. Ski patrol are out and about grooming the tracks early in the day to give you plenty of time for a quick circuit trip or more. Suits all ages, abilities and groups.
+Sledding is also available close to car park and ski hire is within reasonable budget.
+Some tracks are not reguarly groomed and can be difficult. Views from summit on a clear day.
+There is also strong Mobile phone reception.",763,POSITIVE,0.9993770718574524
+81,Mt Stirling,959.0,4.6,The views to the immediate north east and east are spectacular from the angle afforded to you by the summit of Mt. Stirling. These views are otherwise hidden by greater Stirling itself from Mt. Buller. Interesting butterflies in summer. Worth the 2 to 3 hour hike via the Howqua Gap trail. Take some warm clothing in case along with some snacks....and a thermos of coffee. Enjoy.,379,POSITIVE,0.9989306330680848
+82,Mt Stirling,959.0,4.6,"A brilliant couple of days skiing, tobogganing and having fun in the snow, without any of the Buller crowds. Panda and the staff couldn't have been more helpful. Very affordable too. Perfect!",191,POSITIVE,0.9996731281280518
+83,Mt Stirling,959.0,4.6,"Beautiful summers day at Mt Sterling!!!
+",40,POSITIVE,0.999860405921936
+84,Mt Stirling,959.0,4.6,Pushed and rode bike from Mirbah to summit. Great graded ride all the way back down,83,POSITIVE,0.9986215829849244
+85,Mt Stirling,959.0,4.6,Disgusting worst experience went in shuttle bus with family not worth single penny that ski shop is ripp off making fool to every one $15 ride and $20 shows hire not worth it’s really nothing plz go to mt Buller this place for only trecking ppl not ordinary ppl. Be carefully scams.,282,NEGATIVE,0.9996707439422609
+86,Mt Stirling,959.0,4.6,Pretty Speky Views,18,POSITIVE,0.9984177350997924
+87,Mt Stirling,959.0,4.6,Amazing views! Great drive,26,POSITIVE,0.999876856803894
+88,Mt Stirling,959.0,4.6,"This place is absolutely stunning. It is incredibly quiet up there. Not many people as it's not easy access, mainly 4WD or horse riding",135,POSITIVE,0.9988356232643129
+89,Mt Stirling,959.0,4.6,"Great place for cross country skiing, bushwalks. Cost of admission during snow season can now be a bit prohibitive.",115,NEGATIVE,0.9928777813911438
+90,Mt Stirling,959.0,4.6,Phenomenal views. A really special place.,41,POSITIVE,0.9998741149902344
+91,Thredbo Alpine Hotel,1850.0,4.2,"I stayed at Thredbo Hotel for 3 nights/4 days and had a lovely experience. The staff were genuinely friendly and helpful — they even assisted me with my luggage to the third floor, as the hotel doesn’t have a lift. My room was warm and comfortable, which made it easy to relax after being out in the cold.
+One of my favourite parts was the lounge bar. With firewood burning and a piano player singing and playing live, it created a really cozy and inviting winter atmosphere — perfect for winding down in the evenings.
+The only things to keep in mind are the lack of an elevator and limited parking during peak season. But overall, it was a great winter escape with great service, a warm room, and beautiful mountain views.",723,POSITIVE,0.9996755123138428
+92,Thredbo Alpine Hotel,1850.0,4.2,"Stayed at the Thredbo Alpine Hotel and was pleasantly surprised! The room service was satisfying. The location is unbeatable, just a stone’s throw from the Kosciuszko Express Chairlift. The new Alpine Coaster is a must-try; it offers stunning views of the mountain landscape. The staff were attentive and added to the overall enjoyable experience. Highly recommend",364,POSITIVE,0.9998338222503662
+93,Thredbo Alpine Hotel,1850.0,4.2,"I love everything about the Thredbo Alpine Hotel. The location is unbeatable with ski lifts and Thredbo Village right on the doorstep, and all staff are super friendly and helpful. We had room service which was good quality and good value. I look forward to my next visit.",272,POSITIVE,0.999829888343811
+94,Thredbo Alpine Hotel,1850.0,4.2,"As a place to stay, the hotel has welcoming and very helpful staff, very handy shops and eating places in the village right next door, and parking at the front door. Simply a great place to stay for a care free summer get away. Walking tracks to suit every level are handy to the hotel front door, or up the slopes via ski lift. There is a 9 hole golf course within easy walking distance, and excellent down hill bike tracks for the more adventurous - with quality cycling gear for hire if needed. There is a good gym at the other end of the village. As a destination, excellent for all ages.",592,POSITIVE,0.9935877323150636
+95,Thredbo Alpine Hotel,1850.0,4.2,Great hotel to stay. Friendly staff and pretty much on the village Square. Easy access to Friday Flat with free shuttles and a great place to pack your ski gear after you're done. Highly recommended.,199,POSITIVE,0.999792754650116
+96,Thredbo Alpine Hotel,1850.0,4.2,"We were conflicted between this and an apartment and so glad we went with the hotel, great location,never had to move the car, breakfast was good(coffee bad), if you skip Cleaning service you'll get 15$ for the pub(or for a better coffee) we had a great stay, rooms are warm,the hotel is cosy, staff are super friendly. It's probably chaotic during winter, but during the Easter break it was perfect, we will stay away.",419,POSITIVE,0.7591541409492493
+97,Thredbo Alpine Hotel,1850.0,4.2,Nice accommodation. Beds were very comfy. Facilities were adequate. Young lass at reception wouldnt give me a receipt as I booked through booking.com. Very disappointing. Have decided to stay in Jindabyne.,205,NEGATIVE,0.9500378370285034
+98,Thredbo Alpine Hotel,1850.0,4.2,"Don’t be fooled by the resort’s claim they have 11 chargers for electric vehicles in the village.
+The Tesla Destination Charget at the Alpine Hotel was broken. We could’ve used one of the other chargers at the hotel - but THEY NEED YOU TO SUPPLY A PORTABLE EV CABLE, which most EV drivers do not have.
+Why would we? All over Australia, Tesla chargers and other chargers invariably have a cable to simply hook up to your car.
+It would be easy for the hotel to buy a portable cable to lend to visitors when the their Tesla charger is broken - but they can’t be bothered.
+Friday Flat EV chargers also all needed a cable, so we were stuck up the mountain without a charger.
+The resort owns the hotel, but I guess they feel zero responsibility for guests who want to ‘save the snow’ for future generations by driving an EV.",818,NEGATIVE,0.9947032332420348
+99,Thredbo Alpine Hotel,1850.0,4.2,"Very limited in your room, bed and bathroom. But the service is great and the location is amazing. Also the breakfast buffet is very much worth the cost.",153,POSITIVE,0.9998664855957032
+100,Thredbo Alpine Hotel,1850.0,4.2,"Good quality hotel, nice staff, snow at your doorstep, ski ⛷️ spot, gondola and chairlift very accessible from hotel, 3 min walk. Live this hotel though little price in jun month.",179,POSITIVE,0.9992639422416688
+101,Thredbo Alpine Hotel,1850.0,4.2,Had a fantastic time here! Sam behind the bar did his best to make ourselves comfortable and ensure we had a fantastic time!,124,POSITIVE,0.9998676776885986
+102,Thredbo Alpine Hotel,1850.0,4.2,"I've rated everything highly, even though as a heritage hotel, some things are showing their age, despite upgrades and refreshes. We also missed the hotel sunken bar, which was closed during the quiet season. None of this detracts from the charm of this historic place.
+We love staying here and keep coming back during the summer quiet period (and sometimes the not-so-quiet summer period) when it's not too hectic - all those car parks must get used sometime - and the rates are good. We always book a room with a balcony overlooking the Thredbo River and can hear the river flowing past below us.
+The staff are really good and the place feels like home. Our room has a very good layout and is roomy and light with ash panelling on the walls. The shower over the bath setup shows its vintage but they've made the most of it. Add breakfast to your booking because it's good value and in the shoulder period they included a la carte cooked breakfast when the dining room wasn't too full. Of course we'll be back. Next time we'll try the gondola.",1044,POSITIVE,0.9935171604156494
+103,Thredbo Alpine Hotel,1850.0,4.2,"Hotel location is amazing.
+Parking is on premises, and is first come first serve
+You are close to the information center, the chair lifts and pub.
+Rooms: excellent bed, king size, good coffee facilities. Shower is amazing.
+Toilet takes a few flushes.
+No ac, but there is a heater. In winter you will also need the small space heater provided.
+No real restaurant at hotel, breakfast can be had.
+There is a bar.
+Better than most accommodations around there, but do not expect luxury or modern services.
+Enjoy the location!",520,POSITIVE,0.9935566782951356
+104,Thredbo Alpine Hotel,1850.0,4.2,"I recently stayed at Alpine Hotel for three nights and overall had a great experience. The staff was friendly and accommodating, the rooms were clean and comfortable, and the location was perfect for exploring the surrounding area and of course for skiing. My only complaint is that the TV in the room was quite boring with limited channels and options. Other than that, everything was excellent and I would definitely consider staying here again.",447,POSITIVE,0.9979315996170044
+105,Thredbo Alpine Hotel,1850.0,4.2,Fantastic place. Very clean rooms. It's a little warm in summer with no air conditioning.,89,POSITIVE,0.998141884803772
+106,Thredbo Alpine Hotel,1850.0,4.2,"Absolutely love this place. The staff are friendly and helpful without exception. The rooms are meticulously clean.
+The place is dated yes but its part of its charm.
+The breakfast was yum. Bacon was even lovely and crispy.
+This place is the best. Highly recommend
+We loved our stay.",282,POSITIVE,0.9998700618743896
+107,Thredbo Alpine Hotel,1850.0,4.2,Great location and very friendly staffs! Highly recommended for a short stay.,77,POSITIVE,0.9997758269309998
+108,Thredbo Alpine Hotel,1850.0,4.2,"We asked for one day of brekfast and they put two more days so we asked them to give us the money back and they did not want to and very impolitely. The drinks are not included in the breakfast, you need to pay for coffee, hot chocolate etc…",241,NEGATIVE,0.9992673993110656
+109,Thredbo Alpine Hotel,1850.0,4.2,"Excellent location - everything is close by, including affiliated restaurants. Very friendly and helpful staff.
+Decent facilities: on-site restaurants, lounge area – nice area to relax and read a book.
+I particularly liked their policy of giving you $15 off your bill for every day you choose to not have your room cleaned. It's eco-friendly and saves the guest money. I personally don’t think it is necessary to clean the room or replenish towels, soap, etc everyday so works perfectly for me.
+On the negative side, room walls are wafer-thin: could hear my neighbours' conversations. Noise from the outside courtyard area also got through, which is not great as on my last night some people were having a party in the courtyard until very late at night.
+Bathroom is also a bit small.",784,POSITIVE,0.9994179010391236
+110,Thredbo Alpine Hotel,1850.0,4.2,Great food and friendly staff! The room was comfortable with an amazing view.,77,POSITIVE,0.9998865127563475
+111,Thredbo Alpine Hotel,1850.0,4.2,"Room 314. Lovely room with a balcony. Not a boring sterile modern decor but updated in a retro style in keeping with the original hotel. Spotlessly clean, comfy bed, lovely view, great hot water pressure. Would definitely come back if I knew I could get the same room again.",274,POSITIVE,0.9995861649513244
+112,Thredbo Alpine Hotel,1850.0,4.2,"Really enjoyed the friendly people and prime location literally across the street from the chairlifts and gondolas. I'm not sure how the rooms go for winter comfort but we were missing an aircon in early summer (cool weather max 24C). Moved to a room not on the top floor and it was cooler, and the nice gal at the front desk moved our bags and fridge stuff while we did the Kościuszko summit hike. Such a great surprise when we got back pretty tired and didn't have to move our stuff down the stairs. No lifts, something I really felt when limping up and down after the return trip down the track did a number on my knee, made that extra customer service even sweeter.",669,NEGATIVE,0.9817588329315186
+113,Thredbo Alpine Hotel,1850.0,4.2,"Beautiful hotel. Nice and quiet when there is no snow before the MTB gets there. Staff were awesome, considering there wasn't many guests left. Didn't feel like anything was too hard. Some awesome rooms.
+",204,POSITIVE,0.9997846484184264
+114,Thredbo Alpine Hotel,1850.0,4.2,"The staff here have gone over the top in sorting out our original booking to making us feel totally at home during our stay. Every single staff member is friendly and super helpful, especially when my youngest smashed their MCL on the hill! The rooms are comfortable and the ambience of the whole facility is great. I will pick this Hotel every time in the future.",364,POSITIVE,0.9998376369476318
+115,Thredbo Alpine Hotel,1850.0,4.2,"Good food, good prices large servings with a spectacular view and cold drinks",77,POSITIVE,0.9996525049209596
+116,Thredbo Alpine Hotel,1850.0,4.2,"Brilliant location, so close to everything we needed. Nice and neat rooms, great service. Would definitely stay here again",122,POSITIVE,0.9998396635055542
+117,Thredbo Alpine Hotel,1850.0,4.2,"Beautiful location, love the hotel interior. The room was lovely and we had a balcony that looked out to the mountains.
+Only big flaw for us was the bed in room 314. It was two single mattresses pushed together, both were sunken in and either they are as old as the hotel or they’ve let an elephant sleep on them. I ended up trying to sleep at the very top edge to just find some flat area to get comfy. Otherwise felt like I was in a bowl. We had two bad nights sleep because of it, if we were there longer we would’ve asked if they could change the mattress.
+Location is perfect and we continue to stay there each visit but the beds need improving please!",657,NEGATIVE,0.9970946311950684
+118,Thredbo Alpine Hotel,1850.0,4.2,"What a fantastic place to stay.... in a fantastic place!! Can't wait to come back and hire some down hill MTB's
+The room was clean and comfortable. The only negative was no air-conditioning for the summer months.
+The staff were amazing! Super friendly, and very helpful.
+Love the view out of our room with the beautifully lit courtyard. Nice touch xx",350,POSITIVE,0.9998643398284912
+119,Thredbo Alpine Hotel,1850.0,4.2,"Great location but for gods sake, please spend some money on it.
+Food in all outlets is absolutely abysmal, you'd literally get better food at a football stadium, and the bars have not seen a coat of paint since at least 1998, and no I'm not joking, they all look exactly the same including the carpet and the smell.
+Thredbo is such a great beautiful natural environment, but it could be so much better if it at least attempted to catch up to the rest of the world and put some focus into their food and beverage outlets and offerings.
+It's the biggest let down of this resort, and the one reason that it can't rate as a world class resort.
+",641,POSITIVE,0.6134371757507324
+120,Thredbo Alpine Hotel,1850.0,4.2,Rooms was ok. In the middle of the village so near anything. Feels old but all good. Parking is a problem as it’s limited. Men trying to clean up the drainage as early as 6:30 AM so you can hear them walking on the roof.,220,NEGATIVE,0.9497009515762328
+121,Mount Baw Baw,555.0,4.0,"Mount Baw Baw is a wonderful destination for ski lovers, even though the snow season has ended. While there may not be snow at the moment, the area still offers the charm of the ski slopes, the alpine atmosphere, and beautiful natural surroundings. The mountain is peaceful, with fresh air, scenic trails, and plenty of opportunities to relax and take in the views. It is a great place to enjoy outdoor activities, connect with nature, and imagine the excitement of skiing during the season. The facilities are well maintained, and the staff is always friendly and helpful. Even without snow, visiting Baw Baw is still a rewarding experience, and it makes you want to come back as soon as the snow returns. I highly recommend it for anyone who loves the mountains, winter sports, and spending time in a calm natural environment.",828,POSITIVE,0.9998693466186525
+122,Mount Baw Baw,555.0,4.0,"Mount Baw Baw is a solid choice for entry-level skiing—I did my first ski trip here and found it a great place to learn. The slopes are manageable and not too intimidating, although they are on the shorter side, with runs lasting about 4–5 minutes. Still, it’s a fun and accessible option for a day trip or a first-time snow experience.",336,POSITIVE,0.9997432827949524
+123,Mount Baw Baw,555.0,4.0,"About 2hr from lovely town of morewell, this place is nice to see snow...tracking... Neat n clean... Better to go in morning...",127,POSITIVE,0.9940459728240968
+124,Mount Baw Baw,555.0,4.0,"Closest resort to Melbourne. Great for day trippers, kids as well as seasoned skiers. Dingos on-site to visit.  Best to purchase mountain entry online before to ensure you get on site at peak times.",198,NEGATIVE,0.6066118478775024
+125,Mount Baw Baw,555.0,4.0,"The worst experice ever. 2 hour drive to drive there arrived around 12pm to mount baw baw. The maps was showing there a 16 minute delay to get inside (before the pay station) after all that wait there was a guy in vest one of the rangers telling every single individual car one at a time that if they have a reservation they can come in if they don't they can't, and then we where redirected to leave. We asked the ranger what was going on and they said at the top they where at full capacity. So we went and parked on the side of the road and luckily one guy said there is buses we can take to go to the top for free. So we were like nice there is a chance we can still go. The car was parked like 5mins away to where the ranger was and he was like the main big bus broke down and they can't bring people up. We went to the pay booth to see what's happening and the lady was like they're not accepting any more on the spot tickets they're only accepting pre- booked. There was a mini van taking people up and down but it was like a 2 hour wait, the mini van was fit for like 12 people. A waste of day! Anyone going make sure pre book and go early!!! Or else you'll be there a long time.
+
+Moving on, TIRE CHAINS, I waiting for 1 hour getting tire chains at Noojee Bush Goods payed $30 for just the chains. When we went to the mount baw baw they sold chains for $40 (without fitting), $50 with fitting. It's best to just spend the extra $10 rather than wasting an hour.
+
+It's best to plan before you go!!!",1504,NEGATIVE,0.9995819926261902
+126,Mount Baw Baw,555.0,4.0,"Very very average. Actually bad. Be careful with there refund policy when there is no snow, which is most of the time. They are very devious and will not issue a refund when there is no snow.  They promise allot and then when you’ve made the trip there only to discover there is no snow they will not give you your money back.",326,NEGATIVE,0.9973580241203308
+127,Mount Baw Baw,555.0,4.0,"Visited Mt Baw Baw to see snow. The resort is 2.5hrs to 3hr journey and you need to buy tickets to enter . Check the website for prices. We also needed to rent the chains although the weather was not snowy. Lot of things are only for commercial purpose as it made no sense to me. We rented chains in a sunny day for no reason, the lift passes were $20 per person where you are just gng to do toboggan. Kids and adults each would need ticket to enter. For our session it got really crowded and kids have to stand in long queues for their turn. Kids did had fun seeing the snow. If you know skiing that is a different fees and area to enjoy those activities.",656,NEGATIVE,0.9978308081626892
+128,Mount Baw Baw,555.0,4.0,"What a beautiful drive from Melbourne up to this Alpine Village. It is lower than some of the others so not as much snow, but still very beautiful. We went for a bush walk rather than a ski. Just gorgeous.
+
+Pre buy your tickets, it saves a few bucks, remember to check the snow cams before heading up. And you need snow chains for the car as you do for all Victorian ski resorts.",379,POSITIVE,0.9988862872123718
+129,Mount Baw Baw,555.0,4.0,"Great place for kids , just be there early to secure a parking spot or reach there later in the day.little bit to walk from the parking to the snow but not far. The cafe seems to be small and crowded. Haven’t tried the Skiing options but that is for next time. Check for the snow chain requirements even if you have 4WD/AWD cars. I was told to get a chain though I was driving an AWD car.",388,NEGATIVE,0.995120108127594
+130,Mount Baw Baw,555.0,4.0,It's a nice place. Had plenty of snow winter 2025.,50,POSITIVE,0.999805986881256
+131,Mount Baw Baw,555.0,4.0,"Went during school holidays but on a weekday. Got lucky to have some snow, and was not crowded. We reached around 11am and stayed till 3 (just sight seeing and toboggan activity).
+
+Highly recommend pre booking resort entry, as it can save you few bucks. Entry to toboggan park can also be pre booked. But around 12:40 the colour of pass changes that means, if you had bought pass in the morning, then you have to pay again $12pp to get another pass for afternoon toboggan park entry. We had no issues with parking spots. Staff friendly and happy to help. Chain fitting can be down for $15 (don’t have to pay to take off chains downhill as long as you have the docket).
+
+Did not ski, so no data to share.
+
+Food and hot beverages options available uphill. But not cheap. Toilet facility available in the restaurants. Found it’s cheaper to rent toboggan downhill from local shops. Highly recommend for parents with school going kids.",930,POSITIVE,0.9913944602012634
+132,Mount Baw Baw,555.0,4.0,"It was a lovely experience. We reached the place quite early around 8ish, so didn't had to wait longer. Tobogganing area was okay. Food is quite expensive with very limited options. Overall, it was a good place to visit once near Melbourne.",240,POSITIVE,0.9990774393081664
+133,Mount Baw Baw,555.0,4.0,"We really had the best snow experience and well enjoyed.
+You can participate for many snow games there.
+Foods from out side allowed.
+There are small restaurants inside as well.
+
+If you want to spend a night there you can book the small cottages least 3 months ago.
+
+They are charging
+$60 per vehicle (no matter how many ppl are inside)
++ $39  for your tier chains.(If you can bring your own chains for tiers you can save that money 😃)",434,POSITIVE,0.9934685230255128
+134,Mount Baw Baw,555.0,4.0,"If you want mediocre snow, an additional $20 per child entry fee to the toboggan park, a 1.5hr wait to buy crap food & a resort that decided to only open 1 of it's 3 eateries in the middle of peak season school holidays.....than this is the place for you!!! 👌 …",261,NEGATIVE,0.9995476603507996
+135,Mount Baw Baw,555.0,4.0,"NEVER BOOK TICKETS ONLINE, NO REFUNDS. We made the mistake and were refused a refund on our arrival to the mountain, only a single, short intermediate run was available and a single ski lift for everyone to share. Everything else was closed. I told the staff that a blue run was not suitable for first time skiers, they told me I could purchase extra tickets to use the Toboggins instead, see below for photos of the Toboggin area... The easier section of the blue run was about 25m long, but the line went up up hill for 17m, leaving only 7 meters to ski on a gentle slope before getting to the line. There were about 30 people doing ski lessons, which meant they went to the front of the line each time. While waiting in line, I remember seeing the same instructor and girl get on the lift, come down the slope and re-enter the line 3 times while we waited. Lunch time was slightly less busy, I quenched my thirst with a small can of Redbull for $8. Also on arrival to the car park the driver that was behind be pulled in front of my car, almost attempted to pull into the spot next to me, I shut my door and waved him in so he can park, the poorly shaven and angry looking man says out his window ""I work here, Do you have a pass!?"" ""Do you have snow chains?"" He left us alone after I showed him our invoice/chains and he had no reason to ask us to leave (there was no snow or need for chains). Maybe Baw Baw employees should not be hassling customers in the carpark and instead wear a uniform, smile and say ""Good morning, welcome to Mount Baw Baw the information desk is just over there"" The staff at the ski hire shop were great on the other hand, must be different owners.",1679,NEGATIVE,0.9895033836364746
+136,Mount Baw Baw,555.0,4.0,"Nestled in the heart of Victoria's picturesque alpine region, Mount Baw Baw emerges as a quintessential winter wonderland for skiing enthusiasts. During my recent visit, the mountain dazzled under a fresh blanket of snowfall, transforming the landscape into a serene and thrilling playground.
+
+The ski resort offers a variety of slopes catering to all skill levels, making it ideal for both beginners and seasoned skiers alike. For those seeking a challenge, the Summit area provides exhilarating runs with breathtaking views of the surrounding snow-capped peaks. The well-maintained trails ensure a smooth and enjoyable descent, while snowboarders can revel in the terrain parks designed to test their skills with jumps and rails.
+
+Beyond skiing, Mount Baw Baw boasts a cozy village atmosphere with charming lodges and cafes offering warm beverages and hearty meals. The friendly locals and staff contribute to a welcoming ambiance that enhances the overall experience.
+
+One of the highlights of my trip was skiing down the Tank Hill area, known for its gentle slopes and stunning vistas. The combination of crisp mountain air, pristine snow, and thrilling descents made every run memorable.
+
+In conclusion, Mount Baw Baw exceeded my expectations as a winter destination. Whether you're a beginner or an expert, this mountain offers something magical for everyone, ensuring an unforgettable skiing adventure in Australia's beautiful high country.",1447,POSITIVE,0.9997627139091492
+137,Mount Baw Baw,555.0,4.0,"Great for snow adventures closest to Melbourne.  The kids area was super awesome and good access to two hire shops , sit down meals area and two cafe bars.",155,POSITIVE,0.9997860789299012
+138,Mount Baw Baw,555.0,4.0,"Discover the stunning Alpine landscapes, crisp mountain air and family friendly ski fields of Mt Baw Baw, located just two and a half hours from Melbourne.",155,POSITIVE,0.9997681975364684
+139,Mount Baw Baw,555.0,4.0,"We went there on 5th aug. If you want to see snow, rather pick up another place. We did a whole circuit hike from baw baw village taking the summit trail and back from Mattheus track. The views, vegetation was amazing, we did see a fair bit of snow and that was fun. There was a bollywood event on the day which was a lot of unnecessary loud music. Tobbogan rides slots were booked out, the artificial snow was not as good either. Only recommend if you want to do a whole hike.",477,NEGATIVE,0.8524373173713684
+140,Mount Baw Baw,555.0,4.0,It’s a great place to enjoy the snow. Nothing to worry about parking. All day entry 64$. 20$ to rent Toboggan . Chain rent 35$.,127,POSITIVE,0.9994494318962096
+141,Mount Baw Baw,555.0,4.0,"Snow experience is incredible here.
+Lesser crowd than other famous peaks in Victoria.
+
+This was my second times in mt baw baw and is nit disappointing at all.
+However a little disappointed with the cafe availability but not an issue with the seasonal availability and stuff.
+
+Experience is getting better than before. And added emergency paramedics and first aid services and Lifts and life guards availability around the resort.",429,POSITIVE,0.9915223121643066
+142,Mount Baw Baw,555.0,4.0,"I drove up to Mt Baw Baw, and the staff forced me to rent snow chains, insisting that my 4WD couldn’t handle the conditions due to ""snow."" However, my car was already equipped with mud and snow (M+S) tires, which are more than capable of handling light snow. When I reached the carpark, I saw a 2WD Toyota Corolla driving around freely—proving there was hardly any snow on the road the entire way up. This has happened to many of my friends as well. It’s clear that Mt Baw Baw just wants to charge visitors $49 for unnecessary chain rentals, even when roads are bare and vehicles are fully capable. Shame on them for this dishonest practice!",641,NEGATIVE,0.9978146553039552
+143,Mount Baw Baw,555.0,4.0,"Mount Baw Baw was a 5-star family adventure! Visited with my family and experienced heaps of fresh snow—perfect for skiing and playing. Absolutely worth the trip for a fun, snowy getaway",186,POSITIVE,0.9997591376304626
+144,Mount Baw Baw,555.0,4.0,"Great resort for skiing. Experienced a 3days stay with another family at the Cascade resort. Restaurant offer great food and bonus with stunning view. Kids lesson is good enough even for our 4 yr old kids. A bit far walking from resort to the ski venue, suggest to offer some kind of assist to move equipment. Parking is a bit expensive too.",341,POSITIVE,0.9986944794654846
+145,Mount Baw Baw,555.0,4.0,"We recently visited Mount Baw Baw for a snow trip, and overall, it was a great experience. However, one downside was that it was quite crowded. The large number of visitors made it challenging to navigate through some areas and created longer wait times for certain attractions. Despite the crowds, we still had a fantastic time on the slopes and would recommend Mount Baw Baw for a snow trip, with the caveat to be prepared for the potential for crowds.",454,POSITIVE,0.991905927658081
+146,Mount Baw Baw,555.0,4.0,"Beautiful and cosy snow resort. Personally I liked it more than buller as its every facility is at hands reach and you get to drive right upto the resort. Also since the Village itself is mostly flat, walking around is not a drag.
+When we went there was a lot of snow, lifts were going and plenty of snow play going on.
+
+If you are planning a day trip, this is a perfect Snow resort.",383,POSITIVE,0.9994747042655944
+147,Mount Baw Baw,555.0,4.0,"Absolutely beautiful, first snow for me but hubby's been a couple of times to various places around aus and he said it's the best snow he's ever seen. We went a week before school holidays and managed to arrive on one of the best snow days of year. Since we were there before holidays we were one of 6 families and the snow was pristine. Snow upto your knees! Heaps of help from great staff and nooo lines!! Kids loved it and with an autistic child this was perfect. Mt bawbaw is so underrated. We stayed in Erika because we thought the village might be hectic but it was super quiet. We ordered our chains from erika which was a good idea as it gets a bit icy on your way up.",676,POSITIVE,0.9997931122779846
+148,Mount Baw Baw,555.0,4.0,"Snow fields, Those who wish to explore the snow, can enjoy it. Try to bring proper Hand gloves, and other thermal protectors to keep yourself warm. We will get snow chains from the Gate itself to avoid slippery surface.",219,POSITIVE,0.737928032875061
+149,Mount Baw Baw,555.0,4.0,Although it was during summer we had a lovely holiday in the Gardiner Bungalow with all facilities. Day time did trekking and nights were fun as we had lot of indoor games like Chinese  checkers cards and ofcourse Jenga which was enjoyed by every one it was a fun filled long relaxing weekend without snow !!!,309,POSITIVE,0.999722182750702
+150,Mount Baw Baw,555.0,4.0,Very good staff. Very bad public service. Limited loo; cafe is about a few hundred meters from the lift base. There is a cafe next to the lift office but closed.,161,NEGATIVE,0.9968445301055908
+151,Mount Hotham,1379.0,4.7,"Mt Hotham is one of the best ski destinations in Australia! The snow was perfect, and the slopes are great for all skill levels. The staff were super helpful and friendly, making the whole experience smooth and enjoyable.
+
+Parking was easier than expected, and the drive up was beautiful — stunning views all the way. There are plenty of great lookouts to stop and enjoy the scenery.
+
+The village has a great vibe, with nice food and everything you need for a comfortable stay. Highly recommend Mt Hotham for anyone looking for a fun and memorable snow trip!",558,POSITIVE,0.9998613595962524
+152,Mount Hotham,1379.0,4.7,"We visited Mt Hotham yesterday and had an amazing time! The day pass for the car was $67, which gave us access to the whole area. Upon arrival around 9 AM, we were greeted by fresh snowfall—it was snowing heavily throughout the day, making it a perfect winter wonderland.
+
+Chains were compulsory on all vehicles, and we rented one along with some snow play equipment. The tobogganing was an absolute highlight—super fun and perfect for all ages!
+
+What really impressed us was the convenience of the free shuttle buses running throughout Hotham Village, which made getting around easy even in the snow. The entire experience was smooth, safe, and well-organised.
+
+Highly recommend Mt Hotham for a snowy adventure—whether you’re skiing, tobogganing, or just playing in the snow, there’s something for everyone!",808,POSITIVE,0.9997009038925172
+153,Mount Hotham,1379.0,4.7,"For someone who has seen and experi3nce snow for the first time, I would say that this place is majestic. It's an enormous place as it offers different kinds of activities and levels in different areas of the mountain. There are also free shuttles to visit different parts of the place.
+Activities offered are toboggan sledding, snowboarding and skiing.
+Toboggan sledding is favourable for first timers but if you want a challenge, snowboarding can be the next option.
+The downside is, you have to carry your equipment everytime unless you decide to bring it back to the rental shop.
+Also, staff in rental shops are moody as they can be impatient with customers and food is also expenaive and not in good quality. So if you have your own suits and equipment, also food, better to bring them but if it can be a hassle or only using it for once then better rent or borrow from friends or family who have snow gears and equipment.
+Overall, the place was magnificent and it is a must place to visit during winter even if only for once.
+The travel time from the CBD by a private car can take up to four and a half hours. Tour operators are also available but getting in contact with them in advance is a must.",1204,POSITIVE,0.9982417821884156
+154,Mount Hotham,1379.0,4.7,"Mount Hotham is a mountain located in the Victorian Alps of the Great Dividing Range, in the Australian state of Victoria. The mountain is located approximately 357 kilometres (222 mi) north east of Melbourne, 746 kilometres (464 mi) from Sydney, and 997 kilometres (620 mi) from Adelaide by road. The nearest major road to the mountain is the Great Alpine Road. The mountain is named after Charles Hotham, Governor of Victoria from 1854 to Mount Hotham Alpine Resort, a commercial alpine resort, is located on the slopes of Mount Hotham summit and nearby mountains.
+
+Administratively, the mountain is within Mount Hotham Alpine Resort unincorporated area, land which is managed by Alpine Resorts Victoria. This unincorporated area is surrounded by Alpine
+
+Visitors need to purchase an entry permit to enter the resort during winter. The resort entry fee contributes to essential services for guests around the mountain, including ski patrol, the free village buses, snow clearing of car parks in the village, waste management and environmental initiatives.
+
+Best time to visit is from mid June to July end.",1107,POSITIVE,0.9578622579574584
+155,Mount Hotham,1379.0,4.7,"Mount Hotham is truly a slice of heaven! ❄️ The snow-covered landscape is massive and absolutely stunning. We arrived at night and stayed overnight,  no traffic at all during the night, which made entering super easy. The best part was waking up early and enjoying the fresh snow before the crowds arrived. Highly recommend an overnight trip if you want a peaceful and magical snow experience!",393,POSITIVE,0.9997228980064392
+156,Mount Hotham,1379.0,4.7,"Mount Hotham is a standout for serious skiers who crave challenging terrain, panoramic mountain beauty, and a village-at-summit setup that lets you ski straight from your doorstep. A top-tier choice if you're after snow sure terrain and memorable alpine vibes—just be ready for premium costs.",292,POSITIVE,0.9991100430488586
+157,Mount Hotham,1379.0,4.7,Lots of snow when I was up there. Really nice,45,POSITIVE,0.9998506307601928
+158,Mount Hotham,1379.0,4.7,"Stunning views, and lively après-ski scene! ❄️☃️💙🤩 …",52,POSITIVE,0.9996008276939392
+159,Mount Hotham,1379.0,4.7,"Beautiful and breathtaking views - some of the road becomes narrow and quite steep and curvy so it f visibility is poor, allow 30 - 60 min longer . A few handy spots to stop and take photos and 3 main areas to add/remove chains. Needs more lighting and protection from lose rocks , but overall a good drive if weather cooperates",328,POSITIVE,0.8153014183044434
+160,Mount Hotham,1379.0,4.7,You will enjoy the nice snow vies if you visit in mid June to July,66,POSITIVE,0.9998366832733154
+161,Mount Hotham,1379.0,4.7,"I rolled into Hotham mid-winter, skis strapped, ready for adventure. The village nestled amid snow-dusted peaks felt magical. After warming up on gentle runs, I tackled steeper gullies like Mary’s Slide—what a rush! Nights were spent sipping hot chocolate in the lodge, swapping slope stories by the fire. I snagged early “First Tracks” on Heavenly Valley—pure bliss under the pink dawn light.
+
+Returning in spring, I zipped into a Hypedome pod, helmed a glamping fondue dinner, and wandered wildflower trails in silence. Star-filled nights and snowgum breezes made it all unforgettable.",587,POSITIVE,0.995754599571228
+162,Mount Hotham,1379.0,4.7,"It’s such an amazing journey riding on the higher parts of the great Alpine Road towards Mount Hotham Summit in Summer! It’s quiet without the skiing pack in winter and despite the strong wind, the temperature now is like paradise on 1800metre altitude. Deciding to do some hikes on the ridges later because of its stunning ranges the nature here offers! This place reminds me of Tibet, China when the car goes through the winding, ridges like a wind piercer; The skiing paradise also resonates Whakapapa in New Zealand but at a much larger scale for sure and more friendly for expert skiers not the beginners - around 70% black path  lanes!",641,POSITIVE,0.9989981055259703
+163,Mount Hotham,1379.0,4.7,"I would recommend coming up to the mountains by bus or professional, it could be challenging with icy weather and road.
+
+Make sure that your car is suitable for mount Hotham chains fitting.
+
+Overall, excellent experience.",221,POSITIVE,0.9994600415229796
+164,Mount Hotham,1379.0,4.7,It's one of the best scenic drives to Mount Hotham. Although there was not much to do at the resort during Autumn but there are few walking trails there with amazing views.,172,POSITIVE,0.9997660517692566
+165,Mount Hotham,1379.0,4.7,"Went here during the skiing season in July, beautiful view, huge ski resort. There are a lot of spots for skiing, suitable for beginners to the pro. I think this is one of the best place for skiing in Victoria, and I would definitely come back here next year ❄️❄️",263,POSITIVE,0.9997346997261048
+166,Mount Hotham,1379.0,4.7,"Amazing views of the snowy mountains and the whole area looks flattering!!
+There’s a bunch of snow activities happening during the season.
+The hardest part was parking. It’s almost impossible to find a good parking spot if you’re not very early! You’ll have to park somewhere else and take the bus to the location where activities take place :(
+And the free buses would be almost packed with people, and you’ll hardly find some breathing space!😕
+Also, make sure you guys bring the skiing equipments because the gear charges at Mt Hotham is double the amount you pay elsewhere!!!",578,NEGATIVE,0.9865337610244752
+167,Mount Hotham,1379.0,4.7,"""Visiting Mount Hotham in wintertime was an absolute dream come true! From the moment I arrived, I was greeted by the breathtaking beauty of the snow-covered landscape and the inviting atmosphere of the resort.
+
+The skiing and snowboarding opportunities at Mount Hotham are unparalleled. With a variety of slopes suitable for all skill levels, from beginners to seasoned experts, there's something for everyone to enjoy. The well-groomed runs and challenging terrain provided an exhilarating experience that kept me coming back for more day after day.
+
+One of the things that impressed me most about Mount Hotham was the excellent facilities and amenities available. The ski resort offers top-notch equipment rental services, making it easy for visitors to gear up and hit the slopes without any hassle. Additionally, the on-site restaurants and cafes served up delicious meals and warm beverages, perfect for refueling after a day of outdoor adventure.
+
+The staff at Mount Hotham were incredibly friendly, helpful, and knowledgeable. Whether I needed assistance with my equipment or recommendations for the best trails, the staff were always willing to lend a hand and ensure that my experience was nothing short of amazing.
+
+Aside from skiing and snowboarding, Mount Hotham also offers a range of other winter activities to enjoy. From snowshoeing and tobogganing to snowmobiling and scenic chairlift rides, there's no shortage of ways to have fun in the snow.
+
+One of the highlights of my visit was the stunning alpine village atmosphere. The charming accommodations nestled amidst the snow-capped mountains provided the perfect cozy retreat after a day of outdoor adventures.
+
+Overall, my experience at Mount Hotham in wintertime exceeded all expectations. From the thrilling activities to the warm hospitality, it's clear that Mount Hotham is a premier destination for winter enthusiasts. I can't wait to return and create more unforgettable memories in this winter wonderland!""",1983,POSITIVE,0.999848246574402
+168,Mount Hotham,1379.0,4.7,"Do not use this mountain unless there is no alternative. The price you pay for what you get makes this a low value option. I spent 4 days of which I was able to ski 3 because the operator closed the lifts. The reimbursement was less than half what I paid for the day. Essentially, any excuse to take money from you is exploited. Having done an estimate of a trip to Japan, it is reasonably comparable and Queenstown more so when including entry fees, food, hire and parking versus snow coverage.",495,NEGATIVE,0.9873626232147216
+169,Mount Hotham,1379.0,4.7,"What's there to say about My Hotham that hasn't been said before - the place is iconic for snow lovers and provides you with some of Victoria's most beautiful views
+
+I absolutely love the snow and any opportunity to get involved is a great time for me. This place ticks all the boxes
+
+Coming up here in peak time, there's 2 things you need to consider - there's a lot of people here and it's a costly trip
+If you love the snow, none of this will bother you - I didn't care at all
+
+If you're cautious about the snow, I would 100% recommend coming here and experiencing all these amazing views - you'll be converted",613,POSITIVE,0.9991844296455384
+170,Mount Hotham,1379.0,4.7,"Mount Hotham is a mountain located in the Victorian Alps of the Great Dividing Range, in the Australian state of Victoria. The mountain is located approximately 357 kilometres (222 mi) north east of Melbourne, 746 kilometres (464 mi) from Sydney, and 997 kilometres (620 mi) from Adelaide by road. The nearest major road to the mountain is the Great Alpine Road. The mountain is named after Charles Hotham, Governor of Victoria from 1854 to 1855. Mount Hotham's summit rises to an altitude of 1,862 metres (6,109 ft) AHD.
+Mount Hotham Alpine Resort, a commercial alpine resort, is located on the slopes of Mount Hotham summit and nearby mountains.
+Administratively, the mountain is within Mount Hotham Alpine Resort unincorporated area, land which is managed by Alpine Resorts Victoria. This unincorporated area is surrounded by Alpine Shire",841,POSITIVE,0.9822757244110109
+171,Mount Hotham,1379.0,4.7,"first time go ski in my life, very good experience and very nice place, the main road mainten pretty well, but the path a a bit hard for very beinner even the easiest one (if you just learned from YouTube)
+",206,NEGATIVE,0.9483214616775512
+172,Mount Hotham,1379.0,4.7,Great winter experience. Had fun this year,42,POSITIVE,0.999863862991333
+173,Mount Hotham,1379.0,4.7,Exceeded my expectation. Even a month felt less. Can stay here all winter,73,POSITIVE,1.0
+174,Mount Hotham,1379.0,4.7,"Four of us visited Mount Hotham on a July weekend to experience what Hotham ski resort has to offer. Three of us opted to learn snowboarding, and one of us opted to learn skiing. At Hotham Central, collecting our ski passes and hiring our snow gear was a seamless process. We all had a lesson in the morning, which were very informative and helpful, and led by some wonderful and charismatic instructors. After our lesson, we all spent the next 2 days enjoying the slopes. I was very impressed with Mount Hotham, including all the friendly staff, the quality of the rental gear, and the ski slopes themselves. What a wonderful place to ski and snowboard. I will definitely be back next year! Thank you!",702,POSITIVE,0.9995410442352296
+175,Mount Hotham,1379.0,4.7,"I came with 2 young grandkids today and was pleasantly surprised by how exciting Mnt Hotham is now. The kids had a fantastic time at Dinner plain and JB plain, and the Nordic trails and tobogganing runs were all beautifully groomed today.",238,POSITIVE,0.999858260154724
+176,Mount Hotham,1379.0,4.7,"I had a very frustrating experience at Mount Hotham. I paid for a Resort Entry Pass, but when I arrived, I was told that snow chains couldn’t be fitted to my car. I had no choice but to take a round-trip taxi, which, along with day passes, ended up costing me $445.50 out of pocket.
+
+It was incredibly disappointing to spend that much just to reach the resort, especially when this issue could have been avoided with better information beforehand.
+
+I strongly recommend that Mount Hotham improve their booking system by adding a vehicle registration check to verify tyre sizes and snow chain compatibility. Or at the very least, show a clear warning during booking that lists tyre sizes incompatible with snow chains.
+
+This way, people can arrange a different car for the trip, save money, and actually enjoy their time at the resort.",834,NEGATIVE,0.9968332648277284
+177,Mount Hotham,1379.0,4.7,"Mt Hotham is in hibernation in mid November. The mountains are nearly void of snow; just a few persistent patches linger. Low cloud in the afternoon approaches from the west, enveloping the peaks in patchy fog. Views are better on the eastern side with impressive vistas to the horizon.",286,POSITIVE,0.9892005920410156
+178,Mount Hotham,1379.0,4.7,The excitement and thrill is real. There is a lot of snow activities  to do there. Nice cafes to try. Overall must visit place in Australia’s winter season. Do not forget to carry your chains and buy resort entry tickets 😄 …,224,POSITIVE,0.9996939897537231
+179,Mount Hotham,1379.0,4.7,"Weekend tour and the family had lots of fun as there are lots of activities to do. Also, the restaurant downstairs has all the halal meats; which was great to know.",164,POSITIVE,0.99935120344162
+180,Mount Hotham,1379.0,4.7,"I rented skates with my friends and an instructor. Afterwards, we were late because the car had issues. The staff recommended a refund and rebooking, and said the refund would be made to the original payment card. At first, I felt strange that I was asked to pay an additional 300+ baht for the new booking. Now, it’s been almost two weeks — I’ve called and emailed, but the staff have been very unhelpful. They said they would handle it, but nothing has been done.
+
+I feel like I’ve been scammed. If anyone else has experienced a situation like this, I wouldn’t trust the staff here. Please resolve this matter urgently and refund my money. Thank you very much.",662,NEGATIVE,0.999255359172821
+181,Mount Hotham,1379.0,4.7,Winter officially end 2 months back but still there are so many snow and people skiing. Good time if the year if you’re want enjoy snow without rush.,149,POSITIVE,0.9990691542625428
+182,Charlotte Pass Snow Resort,1759.0,4.2,"For the first timers rent toboggans and enjoy. Or buy tickets there. Don’t prebook and go.
+
+For late comers there is a fee. Expensive fee. Not friendly for the first time visitors. We booked the day tripper and it was very difficult to find it for the first time and both families had to loose more than $700 together. The place nice, not the companies running it. Keep policies for not snowing for others, not for running late. Things will occur and you should at least reissue tickets for later use.not visiting next time.",524,NEGATIVE,0.9984421133995056
+183,Charlotte Pass Snow Resort,1759.0,4.2,"The worst and most expensive 4 hour holiday I've ever been on- if I could give 0 stars I would. My partner and I spent nearly $1000 (!) for lift passes and gear hire for 2 days of skiing, expecting an enjoyable skiing getaway. Instead, it turned into a horrifying ordeal that I wouldn't wish upon anyone.
+
+Our morning started well, making the most of the remaining Spring snow in September. However, after lunch, things took a disastrous turn. While going up on the chairlift for a green run, I missed the exit ramp of the chairlift. I stayed seated thinking I would just be let off by the Operator - but no I ended up tripping a trip wire with my ski. This led to a sudden stopping of the chairlift where I was flung at great force into a platform (photo below). This broke 6 ribs on impact. I then fell over 2m to the ground getting whiplash in the process. I'm not sure why the chairlift was set up like that but my guess is because so much snow had melted by Spring this had created a several metre gap between the platform and ground.
+
+What shocked me even more was the response, the Operator restarted the chairlift as I lay under it waiting for first aid. They then asked me to move ""as it was not safe"" to be under a moving chairlift (!!)- I had to crawl away as I was in so much pain and there had been no first aid assessment of my injuries so spinal injury couldn’t be ruled out at this stage. Management's response was equally shocking. They seemed indifferent and took weeks to reply to emails which was surprising given the extent of my injuries.
+
+Exiting a chairlift shouldn't pose a life-threatening risk. If you value your safety I would not recommend going here. I feel ""lucky"" I only broke 6 ribs. I think if I'd landed any differently once being flung from the chairlift I could have been much more seriously injured or worse. Terrible holiday.",1864,NEGATIVE,0.9993693232536316
+184,Charlotte Pass Snow Resort,1759.0,4.2,We had a great 2 days skiing at Charlottes Pass. Shoutout to Jake especially for enthusiastically keeping the Poma bar open for everyone when all the other lifts had to shut due to bad weather. Adam at the front desk was also very helpful!,239,POSITIVE,0.9991705417633056
+185,Charlotte Pass Snow Resort,1759.0,4.2,"There are a couple of reasons to give this snow resort a 2 star.
+The ski field is not friendly for the beginners.
+The added lunch added in the pass and the customer service was absolutely bad.
+No clear mentioning about the Lift-rides, we were denied saying “Coming Down is only until 13:00”.
+Over the snow ride was fun and that was a good experience.",350,NEGATIVE,0.9654049277305604
+186,Charlotte Pass Snow Resort,1759.0,4.2,"Pretty much empty. Never have to wait in line for lifts but there is only one chairlift and two T bars and 1 poma. When we went, only 1 T-bar was working so1/3 of potential area to ski was inaccessible. If your kids can't ski already, don't bring them here as The chairlift only goes to the top of the mountain. The poma goes to the top of a nice beginner run but useless if you can't ride a poma (eg small kids). There's enough resort for a day but you'll be bored after that.",477,NEGATIVE,0.9994505047798156
+187,Charlotte Pass Snow Resort,1759.0,4.2,"Nice ski resort for families with small children and beginners. There's only 1 run open when we came as there wasn't much snow at that time but as we were leaving the snow fall was great. The lift facilities include a magic carpet, ski lift, and t-bar. They have group lessons and one on one lessons available. Gear hire is available but the shop is small and gets busy so it's better to hire the day before or come really early to avoid the long queue.
+
+On snow transport in available to and from the ski tube terminal in perisher. Skitube is available in Bullocks flat where you can park your car for free.
+
+Recommend the koziusko hotel restaurant for a nice dinner. The lamb shank was great! Was not able to take photos as phones weren't allowed in the restaurant.",767,POSITIVE,0.9200329184532166
+188,Charlotte Pass Snow Resort,1759.0,4.2,"Stopped for morning tea at the kiosk and cafe. Friendly staff and good coffee. Cold drinks, hot food and the cricket on - what more could you want - except to stare out the windows at the roof of Australia.",206,POSITIVE,0.9852978587150574
+189,Charlotte Pass Snow Resort,1759.0,4.2,"Absolutely love this place! All staffs are super friendly, we loved all our ski instructor, big shout out to Bred, he is extremely patient yo my 4 year old, can't believe how much improvement he had after 1 hour lesson with Brad.
+The con is it's not accessible in winter, so you have to carry all the gears with you and take their shuttle with limited luggage allowance",369,POSITIVE,0.9970580339431764
+190,Charlotte Pass Snow Resort,1759.0,4.2,"A great hidden resort, worth the effort to get there if you're looking to stay there. Shorter ski runs but no queues make for a full day skiing.",144,POSITIVE,0.9778910875320436
+191,Charlotte Pass Snow Resort,1759.0,4.2,Fantastic spot to walk in early summer! Visit in mid November or you can't get to Blue Lake because of the Snow and the river is too high to cross due to the melting !,167,POSITIVE,0.9991359114646912
+192,Charlotte Pass Snow Resort,1759.0,4.2,"Charlotte Pass is a small skiresort in a bowl shaped valley. It has 1 chairlift, 1 T-Bar and 2 Poma's. Due to the shape of the mountain these lifts open up a big area, ranging from groomed slopes to powder runs with small cliffs to jump off.
+++ Very good resort for children (they can't get lost and it's not crowded)
+++ Not a lot of people on the slopes
+++ Great for beginners since the runs are short
+- The lifts need upgrading (speed and comfort)
+- The T-Bar and Poma lifts need more grooming during the day (gets lumpy and people fall off)
+- Lift operators need to be trained (high speed poma operator hands over the bar the wrong side and you get catapulted while trying to correct his mistake), chairlift operator on top needs to be much more aware about people standing below exit and not moving out of their way. 1 operator went slaloming around the people going up on the T-Bar.",887,POSITIVE,0.9789370894432068
+193,Charlotte Pass Snow Resort,1759.0,4.2,Seems like a nice quiet resort. We did some of the shorter walks due to the weather. Will definitely come back.,111,POSITIVE,0.9994964599609376
+194,Charlotte Pass Snow Resort,1759.0,4.2,We were day trippers and had a great time. Fantastic for the money. The only downside was that some of the lifts shut quite early in the day so we ended up doing the same run a lot.,181,POSITIVE,0.9944631457328796
+195,Charlotte Pass Snow Resort,1759.0,4.2,great spot for hiking and being in nature,41,POSITIVE,0.9998346567153932
+196,Charlotte Pass Snow Resort,1759.0,4.2,"I recently had an incredible ski lesson with Louis, and I couldn't be happier with the experience! As a complete beginner, I was a bit nervous at first, but Louis's calm and encouraging demeanor quickly put me at ease. His teaching style is fantastic, he breaks down complex movements into simple, manageable steps that make learning to ski feel easy and fun.
+
+Within just an hour, I went from being a total novice to confidently skiing. Louis's patience and positive attitude were instrumental in boosting my confidence and helping me progress so quickly. I highly recommend him to anyone looking to learn or improve their skiing skills. If you're seeking an excellent instructor who makes learning enjoyable and rewarding, Louis is the one to go with!",753,POSITIVE,0.9996706247329712
+197,Charlotte Pass Snow Resort,1759.0,4.2,"Friendly staff, very good snow quality and beautiful view, we will come back next time : )",90,POSITIVE,0.9998156428337096
+198,Charlotte Pass Snow Resort,1759.0,4.2,"the lift chair operator is not doing their job. The chair is running super fast and no slow down when little kid presents. Someone asked to slow down but no one action. In Thredbo, staff would come to help lift the child to the chair but here no one cares. My kids end up being throw off the chair and I fall as well. I fall off at the same time. The point is, the lift chair operator doesn’t care at all and he is still asking us to stay away from the chair so they can keep operation. Luckily, my kid has no injury. Operator like this should never operating the lift chair. Their only job is to keep guests safe and they failed. Nice place, less people, but business is not well organized. Teacher is good, the kids love the instructor.",738,NEGATIVE,0.9992870688438416
+199,Charlotte Pass Snow Resort,1759.0,4.2,"Ghost town 2 days after the ""snow season"" ended although the scenery was breath taking.",87,POSITIVE,0.6798397302627563
+200,Charlotte Pass Snow Resort,1759.0,4.2,"The potential for the most beautiful snow holiday and location - just stunning scenery! After a huge effort getting there - the oversnow was 50mins late so keeping children contained in the Perisher terminal after a 7 hour journey to get there was hard. That I can understand but what was really disappointing was the staff. There seemed to be zero customer service. There was one girl on the desk at guest services who was the most unhelpful & disinterested person I’ve ever encountered. She charged me for our ski/boots hire when I went to book lessons for the kids, she didn’t explain anything and getting any info was like trying to get blood out of a stone. She suggested that I go online to look at prices but I had no internet connection while I was in the guest services office. She ended up charging me for ski/boot hire which were already part of my prepaid package. I wasted an entire morning trying to sort that out and I’m still waiting for the $404 refund from over a week ago. Her disinterest really made a negative impact on my experience.
+On the up side, it wasn’t too busy so no long lines, short and fun ski runs which was great. There was one staff member named Hunter working at the Poma who made getting in line a delight. He was so friendly and funny. It would have been great if all the staff had his attitude. I would have rated it 5 stars if so. And some of the staff at the Kosciuszko Chalet were pretty good, the guys working kids club was amazing. The food was pretty good. Although one night our group had a dinner booking for 7.30pm and we didn’t get to sit at our table until 9pm. That wasn’t great, the kids were wrecked by that time and none of us were even really hungry anymore.
+
+When guests are paying premium prices to come and stay here, would be good if the staff were offering service to match. Quite frankly, you get better service at McDonalds.",1887,NEGATIVE,0.9976956248283386
+201,Charlotte Pass Snow Resort,1759.0,4.2,"Who would not love the highest resort in Australia? The location heads on the quiet side over the early summer, although tourists flock like birds around a fish and chip shop over the summer holidays. It is worth dropping in for a coffee and relaxing after completing a mountain walk. Relax a little before heading down the mountain and take in those final views from Stillwell eats and drinks setting. You will be pleasantly surprised by their hospitality.
+",458,POSITIVE,0.9989388585090636
+202,Charlotte Pass Snow Resort,1759.0,4.2,"Very disorganized staff, none seem to know or care what going on… it’s kind of like the story of lord of the flies, a lot of children stranded on a mountain that just work things out how they think is best. There’s no information area to help you.
+The day tripper tickets seem to be good value but does not include ski, boots etc cost that another $102. if your a first time skier you probably won’t be using the the lifts but you are charged for use.
+Our cost per person for 1 Day pass $129, lesson $99, ski $102, ski tube $130 rtn
+Ski tube takes 10 minutes from bullocks flat to Perisher.
+The included food is 1 star Chinese food but the coke was cold😀
+Charlottes pass has a booth in the food area above where the ski tube drops you off this is where you meet the over snow and over snow travel takes 30-40min from Perisher to Charlotte pass.
+I wouldn’t bother going back to Charlotte pass and would try using the Perisher area",929,NEGATIVE,0.998712420463562
+203,Charlotte Pass Snow Resort,1759.0,4.2,"Great ski hills with a couple options for beginners. Food was tasty considering the limited options, they had a GF, vegan pizza option at Stillwell which is a rare find. 4 stars due to one of the buildings reaking like vomit",224,NEGATIVE,0.6743855476379395
+204,Charlotte Pass Snow Resort,1759.0,4.2,"Magical experience for us as first time family of five.
+Had group lessons each day so three of us learned to ski from zero previous experience.
+Small slopes prefect for us to explore and build confidence. Lovely instructors were patient and able to provide expert next steps to keep us progressing.
+Six year old loved the magic carpet area and was able to come down main slope by herself at the end.
+Day tripping can be a slog though... so would recommend staying at the resort to maximise time on the slopes. Still incredible experience to catch oversnow there and back to watch the landscape. We just got quite fit 😂",618,POSITIVE,0.996066391468048
+205,Charlotte Pass Snow Resort,1759.0,4.2,"My favourite Australian club ski resort, my kids learnt to ski here. True ski in ski out. No crowds, especially mid week. Unknown jewel of the Australian Alps. Expensive to get here via over snow and you need to book months ahead to get in at the time you want. Lifts are basic but uncrowded. Vast ski touring options out to Mt Kosciuszko and the steep western faces.",367,NEGATIVE,0.8381200432777405
+206,Charlotte Pass Snow Resort,1759.0,4.2,A must must must visit place to experience the best snow.,57,POSITIVE,0.9996238946914672
+207,Charlotte Pass Snow Resort,1759.0,4.2,"Great place for a more relaxed skiing and boarding, the staff are very friendly and helpful.",92,POSITIVE,0.9998695850372314
+208,Charlotte Pass Snow Resort,1759.0,4.2,"Booked a surprise birthday weekend away for me and my partner, we arrived at 8:25am for 8:30am transport, and they refused to let us go because they overbooked their transport. Not only that, although they agreed to provide a refund verbally, they still haven't provided a refund. Very unpredictable and not trustworthy, would not recommend.
+",342,NEGATIVE,0.9984124898910522
+209,Charlotte Pass Snow Resort,1759.0,4.2,"Where do I begin...
+
+Oversnow took double the time to get us there
+
+No lifts were open only one t-bar
+
+Lunch was cold, beer was warm
+
+Pool table had broke cues
+
+Oversnow was behind schedule due to three broken cats and I arrived back at perisher by 6pm. I was lucky enough to get on an earlier oversnow and if I had gotten on for my allotted time of 4:15pm would have gotten to perisher at 8pm",393,NEGATIVE,0.9980584979057312
+210,Charlotte Pass Snow Resort,1759.0,4.2,Always great value for money with included oversnow and lunch. The longest wait I've ever had for a lift there was maybe 10 people. The only resort in NSW to offer locals passes.,178,NEGATIVE,0.9900894165039062
+211,Falls Creek,1379.0,4.4,"We had a wonderful stay at Falls Creek Alpine Resort. The chalet was warm, comfortable, and perfectly suited for a cozy alpine getaway. Everything was well maintained, with thoughtful touches that made it feel welcoming after a day on the slopes.
+
+The location is fantastic—easy access to the lifts and village, with beautiful mountain views all around. Staff were friendly and helpful, making the whole experience smooth and enjoyable.
+
+Highly recommend Falls Creek Alpine Resort for anyone looking for a relaxing, picturesque escape in the snow. We’ll definitely be back!",573,POSITIVE,0.9998756647109984
+212,Falls Creek,1379.0,4.4,"Extremely friendly to snow newbies.  Particularly Lily on lifts and Jak in the board school, but really everyone.  A welcoming fun engaging atmosphere.  We will be back!",169,POSITIVE,0.9998677968978882
+213,Falls Creek,1379.0,4.4,"falls creek was very much amazing i went there with my school and the staff- from the ski instructors to the catering staff were very nice. i have a complaint, though. the halley’s lodge ski rental guy was NOT very nice to me. would not recommend going there for the rentals. he was rude to me when i dropped a ski pole and apologized. other than that, cool experience!!",370,POSITIVE,0.953795313835144
+214,Falls Creek,1379.0,4.4,"Beautiful resort perfect for skiing and snowboarding even for beginners. There are many food stops and accomodation options. Its a bit far from Melbourne though, about 5 hours. Chains are needed for the car and proper clothes.",226,POSITIVE,0.7375063300132751
+215,Falls Creek,1379.0,4.4,"Pretty good. The snow is fair to good, but it is now starting yo slush up sightly 4/7/24 it was dry and powdery the 1st-3rd July.
+Had the start of the fireworks 🎆 tonight 👍it was a great little display, just a little difficult to navigate to if you haven't been to the village bowl before. …",291,NEGATIVE,0.9908456206321716
+216,Falls Creek,1379.0,4.4,Great resort for family winter holidays but some things can be improved like the poor positioning of EV chargers without any protection from blizzard conditions. The Gully car park was closed due to the heavy snowfall and preventing access to EV charging stations. Playing music in the common area in front of Slalom Plaza ski lift makes it gloomy compared to other Alpine resorts. DJ music in front of ski lift flat area will warm up the atmosphere in the late afternoons. The Last Hoot restaurant block is an eye sore for the whole ski resort experience and should be removed for opening up to fabulous views of the mountain and Halleys Comet ski run.,653,NEGATIVE,0.9942216277122498
+217,Falls Creek,1379.0,4.4,"Definitely the longest ride from Melbourne to come here but worth the time. The half an hour up the mountain is windy but lucky for us the weekend ride was good. No snow chains required. But a must to have time if you are going up.
+Pick up gear a day before if possible to just hit the slopes rather than spend time with the day trippers queuing to get gear.
+Its worth an least a 3 days snow shredding for driving up the windy mountain.
+Service to get gear was good. All the lift staff were super friendly. Just book lessons way early if you could. Else prepare to ask on the day and pay 20-30% more.
+Cafes and small eateries everywhere. So a hot coffee or beer is always available. Just be warned that Cloud9 is super crowded. School holidays probably as parents brought all the children up for a day trip?",807,POSITIVE,0.9975444674491882
+218,Falls Creek,1379.0,4.4,"What a strange place is Falls Creek. After 36 years of skiing all over the world, this was my first time courtesy of the Epic pass. Definitely the snobbiest of the Victorian ""Resorts"". It has obviously been developed to be self serving for the elite who are members of the private lodges there. Unless you are prepared to pay for a formal sit down meal at a restaurant in the village, the lack of public areas is shocking. Well we did find the official designated ""public area"" (and signed as such) - a couple of dirty couches in a corner outside the toilets. Every door we opened we were confronted with a “Please Wait to be Seated” sign. Found Hoots was OK if you’re happy to have a pizza and watch the beginners come down Wombats Ramble. The skiing was pretty good once you get up the top, and Cloud 9 is a decent place to have lunch or a snack (only $19 for a bowl of sweet potato chips) but no Picnics allowed (also signed in multiple languages on every pole). Thanks for dropping the entry fee by $20 before the end of August due to the absence of operating lifts, but we already got the message, and as outsiders do not feel welcome here and not likely to return 🎿
+Check out Hotham instead, we found it to be much friendlier and convenient with welcoming cafes and bars close together in the Village. And you can get the village lift there right back to the carpark!",1373,NEGATIVE,0.9964534044265748
+219,Falls Creek,1379.0,4.4,"Love love love falls creek. Definitely coming back again, the views the staff and the overall vibe was absolutely amazing and we had a blast! Definitely recommend getting skii lessons if you're new but overall had a great time.
+
+There's also a snowmobile tour at sunset definitely recommend trying it too 🤗",306,POSITIVE,0.9988605976104736
+220,Falls Creek,1379.0,4.4,"After arriving in Bright on 20 June 2025, I suffered a fractured ankle before using any part of my Falls Creek Beginner Bundle. I was hospitalised and referred for surgery in Melbourne. I immediately informed Falls Creek, providing medical certificates and hospital documents, explaining I couldn’t ski this season or next.
+
+Falls Creek offered only a voucher, which is unusable given my long recovery. Despite multiple follow-ups with full medical evidence, they have since ignored me.
+
+By contrast, the ski gear hire company we booked with showed compassion and refunded us in full, despite similar policies.
+
+Falls Creek’s lack of response has added stress during an already difficult time. I hope they improve their customer care and treat situations like this more compassionately.",786,NEGATIVE,0.9959229230880736
+221,Falls Creek,1379.0,4.4,"The best snow experience in Victoria, need to well prepared. When snowing small vehicle is not enough even when wheel chain fitted.",131,NEGATIVE,0.9195511341094972
+222,Falls Creek,1379.0,4.4,Snowed on top till mid august 2025...but may change anytime,59,NEGATIVE,0.7893643975257874
+223,Falls Creek,1379.0,4.4,Left bright with 30deg temps. Got here and it was 1deg🤣 cloud cover stopped our views from skyline but opened up later. Great mtb park …,136,POSITIVE,0.9872885942459106
+224,Falls Creek,1379.0,4.4,lovely spot.  BUT they constantly lie about ski conditions. it's beyond a joke. when they are charging $242 for a day pass they should not be allowed to lie about conditions or forecasts,186,POSITIVE,0.9395307898521424
+225,Falls Creek,1379.0,4.4,"Great ski resort! The skiing was great and and the terrain perfect for all levels of skiing. The staff were always happy to help and a special mention to the lift operators for the constant smiles and greetings. For our first trip to Falls Creek, I can say we will definitely be coming back!",291,POSITIVE,0.9998763799667358
+226,Falls Creek,1379.0,4.4,"Beautiful mountain, very family and beginner friendly. Heaps of food to choose from and plenty of places for beginners to learn.",128,POSITIVE,0.9997414946556092
+227,Falls Creek,1379.0,4.4,"We visited Falls Creek on the second weekend of Winter.
+Snowfall was really thick on the second day.
+
+It's was simply an amazing victorian alphine experience.
+
+My video says it all.",181,POSITIVE,0.999550759792328
+228,Falls Creek,1379.0,4.4,"Great views looking south of to alps. Great roomy accommodation. You must supply your own towels  and linen. There is cooking facilities but you must be careful not to generate any smoke or the alarm will activate, fortunately for us there was someone who was able to deactivate it. We finished our cooking on the balcony.",322,POSITIVE,0.6695591807365417
+229,Falls Creek,1379.0,4.4,Not for families. Good for ski only. Toboggan park is namesake only and is chargeable.,86,POSITIVE,0.9282943606376648
+230,Falls Creek,1379.0,4.4,"This is a great place for a day at the snow, especially if you are a beginner and/or a local. Great snowfall this season, easy to catch the bus from Mt. Beauty up and back, spend the day carving the slopes or getting some lessons. Good variety of food for the post ski nosh and good locker facilities to keep you stuff in. Highly recommended!",342,POSITIVE,0.9997674822807312
+231,Falls Creek,1379.0,4.4,"Amazing experience. Very friendly staff. The    traffic management team does a awesome job in guiding you to a parking place.
+From the main parking place you can pick a retyrn ticket to the summit using the lift chair for $20 per adult and $14 per child.
+The shuttle service form the carpark to the tobaggan area runs every 5 minutes and the drivers are friendly and helpful.",375,POSITIVE,0.9997201561927797
+232,Falls Creek,1379.0,4.4,"I learnt how to ski in 2 hours. I booked online for pass ski lift and first time ski lesson. The following day, I did the wombat ramble trail and then took the ski lift with my skis on! Fun experience. Good for both young and adults to enjoy.",242,POSITIVE,0.9994542002677916
+233,Falls Creek,1379.0,4.4,Great Experience in snow season. Quite supportive group to secure your safety and well established facilities.,110,POSITIVE,0.9998334646224976
+234,Falls Creek,1379.0,4.4,"This place is a such a wonderful place to visit.
+It’s known as an alpine and cross-country ski center. Also there is a museum to visit, it demonstrates the history of falls creek.",179,POSITIVE,0.9998422861099244
+235,Falls Creek,1379.0,4.4,"Falls Creek is absolutely beautiful.
+You won’t be disappointed by visiting here.",80,POSITIVE,0.9998552799224854
+236,Falls Creek,1379.0,4.4,Great place to visit and not overly priced food,47,POSITIVE,0.999850869178772
+237,Falls Creek,1379.0,4.4,It's a great place to ski with challenges for beginners to experts.,67,POSITIVE,0.9998279809951782
+238,Falls Creek,1379.0,4.4,"Very good place for a big steep down hills and beautiful views
+",63,POSITIVE,0.9998685121536256
+239,Falls Creek,1379.0,4.4,Nice hill to ski and board on car parking is easy to get to very close to the lifts. Lots of nice places to get food and shops to buy equipment. Much nicer then mt buller. Worth the extra drive. Friendly and helpful staff. Easy medium and hard slops. Also with awesome park features from begginer to extreme expert definitly recommend going here for a play regardless of level.  Lessons available.  Stay in  bright and check weather reports Mt Hotham is the same distance away and equally as good. Also same lift pass works at ether resorts so get up there and enjoy.,567,POSITIVE,0.9985122084617616
+240,Falls Creek,1379.0,4.4,"Friendly terrain park, great night ski, love it.",48,POSITIVE,0.9998807907104492
+241,Selwyn,799.0,3.9,"A Perfect Family Snow Trip!
+
+We had an amazing time at Selwyn Ski Resort! It’s a fantastic spot for families — our kids had an absolute blast. The staff were incredibly friendly, and the ski lessons were well run. Big shoutout to Paige, who was wonderful with the kids! Paige looks after us last Sunday for a group of 10 kids.
+
+Ski hire was much cheaper than at Thredbo or Perisher, which was a great bonus. While food prices were a bit higher, it’s understandable given the seasonal nature of the resort.
+
+The resort closes at 4:30 PM, which actually worked out well for relaxing evenings. The drive up was stunning — snow-covered and very scenic. We also found more affordable accommodation options nearby in places like Tumut.
+
+Overall, this was our best snow trip yet — we’ll definitely be back super soon!
+
+Pls list a phone number to contact you, would be very handy for people planning it for the first time, few things on the website is confusing, not very clear. Thank you
+",981,POSITIVE,0.9997573494911194
+242,Selwyn,799.0,3.9,"If your TIME is valuable, this isn’t the place for you, don’t be fooled by 5 star reviews in here. I  hoped bad reviews on this were just one bad weekend, it isn’t. This place wouldn’t care about your time, ski hire queue is the slowest queue on earth - we waited for over 3hrs on a not so long queue to get the skis, and it was already midday by the time we got them. And we missed our lessons and when we tried to communicate that, they showed us others who were also in same boat and the guy at counter was like I can’t do anything about it. He offered to book a lesson for $50 😆- which I can do myself too.
+
+You’d think you are better off if you BYO skis or hire elsewhere- you are happily joining another queue to use the chair lift. If you are hungry, you are joining another queue, coffee? There’s another queue. They should change the name to Queues Snow Resort 😁
+
+This place is greedy and will issue as many tickets passes as possible with no attention to capacity in terms of staff or facilities. Staff seem helpless, well under capacity snd unhappy.
+
+The cafe area was almost always full all day, so  you can’t really find a place to sit. Toilets were ok.
+
+Locker says $10 small locker box but i paid  $14 for small locker 12?7",1238,NEGATIVE,0.999658226966858
+243,Selwyn,799.0,3.9,"One of the best family friendly resorts. Not as busy as Thredbo or perisha but have better amenities and not so many people tripping over each other in the snow.
+You can ski and toboggan here and the staff were all pretty friendly.",231,POSITIVE,0.9984448552131652
+244,Selwyn,799.0,3.9,This snowfield is more child friendly. The equipment hire line was not too long. I visited on a non-school holiday weekend. You can't bring your own Tobaggan - you buy a Toboggan escalator pass online and it comes with a free Toboggan to use.,242,NEGATIVE,0.9834866523742676
+245,Selwyn,799.0,3.9,"I recently organised a ski trip for a number of families. I have skied quite a lot but most of the group were beginners. I was very happy to have chosen Selwyn!! I was at Thredbo one month ago so easy to compare. Selwyn is so chilled compared to the craziness of Thredbo. There are more runs over there but you really pay for it! The cost of the lift tickets and lessons were so much better and affordable at Selwyn. I particular wanted to mention Stefan and Jimmy who taught my daughter. She learned so much more than at her snow boarding lesson at Thredbo. They they really encouraged her and before the day was out, she was all over the mountain!
+I also want to acknowledge those on the lifts. They were so friendly and fun!
+Thanks so much our entire group had a really wonderful trip and we will definitely be back!",819,POSITIVE,0.9846410155296326
+246,Selwyn,799.0,3.9,"We visited on Monday. There wasn’t much snow, but the beginner slopes were well covered and suitable for skiing. There was also a toboggan area with plastic sleds, which was a lot of fun.
+
+The café in the food court makes excellent coffee — even the decaf was outstanding! Highly recommended. The price was $8.50 for a medium cup, which is a bit steep, but the taste made it worth it.",384,POSITIVE,0.999707043170929
+247,Selwyn,799.0,3.9,"Subject: Disappointing Experience at Selwyn Ski Resort – Request for Resolution
+
+Dear Selwyn Ski Resort Management,
+
+I am writing to express my extreme dissatisfaction with the experience my family and I had at your resort during our visit on the weekend of July 13, 2025. Arriving at 8.30am Unfortunately, the quality of service we encountered was far below expectations, especially considering the high cost of our visit.
+
+1. Staffing and Operations:
+Given the online booking system in place, it would seem that you would have had an accurate indication of the number of visitors for that weekend. However, it was clear upon arrival that your resort was significantly understaffed.
+
+Your rental desk had five counters, yet only two or three were staffed, with minimal assistance provided to the large crowd. We had to wait for over 5.5 hours just to pick up our rental gear.
+
+By the time we were finally on the slopes, it was 2:45 pm, leaving us with just 1 hour of skiing before the resort closed at 4pm. As we had paid for full-day lift tickets for 2 adults and 2 children, this experience was incredibly disappointing.
+
+2. Lift Ticket Machines:
+Out of four available machines, only one was functioning, causing lengthy delays and further frustration for all visitors trying to purchase tickets. This level of disorganization is unacceptable for a resort of your size.
+
+3. Food and Beverage Service:
+At the cafe, there were only two baristas managing both coffee orders and counter service. The wait times were excessive, with a 45-minute wait for a coffee and hot chocolate, which is simply unacceptable.
+
+4. Facility Cleanliness:
+The resort's toilets and other facilities were noticeably unclean, and I did not observe any efforts to maintain or sanitize them throughout the day. This is particularly concerning in a high-traffic environment like a ski resort.
+
+5. Cashless Payment and Connectivity Issues:
+While I understand the move to a cashless resort, the lack of proper internet reception is a major issue. Many visitors, including ourselves, were unable to complete transactions or access your website due to poor mobile network coverage, leading to further inconvenience.
+
+In light of these numerous issues, we have clearly been misled by your advertising and charged for services that were not provided as promised. As a result, I will be lodging a formal complaint with the Australian Competition and Consumer Commission (ACCC) for misleading advertising and inadequate service delivery.
+
+Given the severe lack of service and the frustration we encountered, I kindly request a full refund for the lift tickets and rental fees pre paid for close to 4 weeks before our attendance.
+
+I hope you will take the time to address these concerns and take immediate steps to improve the guest experience for future visitors. I look forward to your prompt response.",2869,NEGATIVE,0.9995111227035522
+248,Selwyn,799.0,3.9,"As a first timer to see the snow, I was thoroughly impressed. A 4 and a half hr drive from Sydney. We were amazed to see the difference in weather from muggy in Sydney to a downpour of rain in Jindabyne. The drive to Selwyn has you doubting that snow even exists here in NSW. It's not until you are 1 hr out from the resort that the snow and ice appear. Absolutely breath taking views. The resort is nice. I wish the machines were working out of the 6, There only was 1 which worked. Which an employee had to stand there and hand feed cards through. Also, maybe cover the kiosk machines. I was retieving 10 cards yesterday and found it hard as the place where the kiosks are placed is right bang in the middle of an air tunnel, and it's freezing. There is no cash on premises it is strictly cashless. Staff and instructors were incredibly helpful/ patient and kind. We will definitely be back again.",899,POSITIVE,0.9991368651390076
+249,Selwyn,799.0,3.9,"12/07/2025 Parking not enough. Arrival lines everwhere. No order or signs to guide us. Unclear how to obtain pass. 1 person on 1 checkout in shop. 45 minute wait there. Not enough toboggans for kids. People hogging them while having a rest, eating or playing in snow. The magic carpet broke down numerous times and was slower than a sloth at the zoo.  Snow not much. Food cold crazy long long wait, 45 min wait for hot choc drink. 2 staff doing coffee. Nice staff but wow under the pump. Leaving cars were parked at least 1 kilometre down entrance rd which caused dangerois conditions on narrow road. Meh experience!",616,NEGATIVE,0.9996346235275269
+250,Selwyn,799.0,3.9,"We visited Selwyn Snow Resort on July 12, 2025, and it was a total disaster. We had pre-booked ski rentals and lift pass expecting a fun and well-organized snow day, but instead spent the entire day stuck in long, disorganized queues. There was absolutely no proper system, no crowd control, and no clear communication from the staff. Despite having a booking, we never received our rentals – just stood in line for hours with nothing to show for it.
+
+The resort was clearly overwhelmed and unprepared for the number of visitors. Staff seemed lost, and no one took responsibility or provided solutions. What should have been a great day out turned into a frustrating, exhausting, and completely wasted experience.
+
+This is unacceptable, and we absolutely deserve a refund for both the poor service and lost time. I strongly do not recommend Selwyn Snow Resort to anyone based on this experience. They need to seriously improve their operations and customer service.",965,NEGATIVE,0.9997416138648988
+251,Selwyn,799.0,3.9,"Second trip to Selwyn this season with the family. The service here is absolute superb! Super family friendly. Special shoutouts to the liftie Zacharia(who plays some seriously good tunas from the boombox), the ski instructor Gilbert and the friendly lad in the cafe Nino. A great little mountain for the little ones to earn and learn their turns before hitting the bigger mountains. Great to see the staff in a cheerful mood with the bistro lad belting out Whitney Houston's ""I will always love you"" while setting up and the ski patrol joining in.",548,POSITIVE,0.9998456239700316
+252,Selwyn,799.0,3.9,"Great little day trip, even towards the end of the season. Kids had a great time tobogganing.
+We brought our own toboggans to avoid the rental lines, but you don't even need to line up for them, they're stored at the bottom of the ""magic carpet"", just grab and go :)
+Food and drink is a bit expensive, so try to bring your own.
+We will be back next year!
+2.5hr drive from Wagga. No snow chains required in 4WD.
+Beautiful scenic drive, even saw wild brumbies.
+Grab fuel in Tumut as no petrol stations at the resort.",514,NEGATIVE,0.9002059698104858
+253,Selwyn,799.0,3.9,"Selwyn Snow Resort, nestled in the northern Snowy Mountains of New South Wales, offers a welcoming and affordable alpine experience, particularly suited for families, beginners, and those returning to snow sports. ￼
+
+⸻
+
+🏔️ Terrain & Facilities
+
+Spanning 45 hectares, Selwyn provides a variety of gentle slopes ideal for novice and intermediate skiers. The resort features 8 lifts, including two chairlifts, two T-bars, a platter, a poma, and two magic carpets, ensuring accessible terrain for all skill levels. Notably, 88% of the terrain caters to beginners and intermediates, with the “Racecourse Run” offering a challenge for advanced skiers.  ￼ ￼
+
+After the devastating 2019–2020 bushfires, Selwyn underwent a complete rebuild, reopening in June 2023. The revamped facilities include modern equipment hire, clean dining areas, and efficient lift operations, enhancing the overall guest experience.  ￼ ￼
+
+⸻
+
+👨‍👩‍👧‍👦 Family-Friendly Atmosphere
+
+Selwyn is renowned for its family-oriented environment. The resort’s layout allows parents to easily supervise children, and the tobogganing and tubing areas are particularly popular among younger visitors. The manageable size of the resort ensures a relaxed and enjoyable experience without the overwhelming crowds found at larger resorts.  ￼
+
+⸻
+
+💰 Affordability & Accessibility
+
+Selwyn stands out as one of Australia’s most budget-friendly ski resorts. Adult day passes are priced at AUD 119, with youth and child passes at AUD 95 and AUD 35, respectively.  The resort’s proximity to Sydney (approximately a 5-hour drive) and Canberra (about 2.5 hours) makes it an accessible option for day trips or short getaways. ￼ ￼
+
+While there is no on-mountain accommodation, nearby towns such as Adaminaby, Talbingo, and Cooma offer various lodging options to suit different budgets.  ￼
+
+⸻
+
+❄️ Snow Reliability & Conditions
+
+Selwyn’s lower altitude can lead to variable snow conditions, especially early and late in the season. However, the resort has invested in extensive snowmaking capabilities, covering 35 hectares, to ensure consistent snow coverage. August typically offers the best natural snow conditions, with an average base depth of 26 inches.  ￼ ￼
+
+⸻
+
+🧳 Visitor Tips
+•	Bring Your Own Food: Dining options are limited, and meals can be expensive. Packing your own food is advisable.  ￼
+•	Arrive Early: To secure parking and avoid crowds, especially during peak times, it’s best to arrive early.()
+•	Check Snow Reports: Stay updated on snow conditions and lift operations via the resort’s official website before planning your trip.  ￼
+
+⸻
+
+⭐ Overall Impression
+
+Selwyn Snow Resort offers a charming and cost-effective alpine experience, particularly appealing to families and beginners. Its recent renovations have enhanced the facilities, providing a comfortable and enjoyable environment. While it may not satisfy advanced skiers seeking challenging terrain, Selwyn’s relaxed atmosphere and affordability make it a worthwhile destination for those new to snow sports or looking for a family-friendly getaway. ￼ ￼ ￼",3067,POSITIVE,0.99968159198761
+254,Selwyn,799.0,3.9,"This was without doubt the worst waste of money but i promised my wife i wouldnt create a fuss but what a rip off. Phone answered by msg tells you save 20% by booking on line absolute BS. Service was so bad they just want to take your money by anymeans as much as your wiling to part with. Food expensive bland pultry serves drinks same. Place is uncomfortable if you just there to watch.
+Alround so badly set up it was a nightmare.",432,NEGATIVE,0.9997791647911072
+255,Selwyn,799.0,3.9,"Don’t waste your money or time.
+Even with half price $60 lift tickets it’s not worth the trip there.
+It was my 5 year olds first time skiing and the instructors he had for ski school were good but apart from that the place should not have been open with the lack of snow. For the 2 days we went there was only one lift open apart from the bunny hill and on the first day even this was shut for a few hours in the afternoon.
+The toilets weren’t very clean and there wasn’t much seating outside.
+I’m just grateful it wasn’t too busy, although why would it have been.
+I won’t be returning to Selwyn Snow Resort.
+The photo is from the top of the only run open",655,NEGATIVE,0.988723635673523
+256,Selwyn,799.0,3.9,"Liftys were astounding! had my first timer children with me, all learnt the chairlift and t-bar thanks to the patient operators who gave advice and encouragement.
+
+lines are horrible on weekends and incredibly efficient on weekdays. I do NOT recommend visiting on the weekends",276,POSITIVE,0.9972988963127136
+257,Selwyn,799.0,3.9,"I recently visited Selwyn for my first time skiing. While I truly enjoyed the experience of learning to ski, that was in spite of how the resort was managed, not because of it.
+
+Several safety concerns stood out—most notably, the presence of exposed metal fencing around the beginner tracks. Unfortunately, I injured my knee on one of these, which left me feeling that the environment was not as safe as it should be, especially for beginners.
+
+Food options were limited and surprisingly expensive. What made this more frustrating was the lack of visible pricing—there were no price tags, so I only discovered the cost at the register, which felt a bit misleading.
+The bathrooms were also disgusting and looked like they had never been cleaned. There was only one soap dispenser and they had replaced the soap with water!
+
+I also found the general attitude of the staff disappointing. During my lesson, the instructor took an unnecessarily harsh tone with participants, singling out individuals for making mistakes and drawing attention to them in a way that felt humiliating rather than constructive. That said, I want to acknowledge that Sienna and Paige were both incredibly kind and helpful, and their friendliness was a real bright spot during the visit.
+
+Overall, Selwyn has potential, but some important changes are needed to make it feel safe, welcoming, and beginner-friendly.",1385,NEGATIVE,0.9881348609924316
+258,Selwyn,799.0,3.9,"Would have given 1 star, except for the staff who were great even though absolutely under the pump.
+Not sure what the management plan is but pretty much felt like ‘the wild west’. I know it’s fair to have waits during busy periods. Yet we came mid week, beautiful weather. Came to rental que 9;50… got on the snow 1:20pm..crazy business 🤦🏻‍♂️🤦🏻‍♂️. So many families there for the day.. can’t imagine what a bummer it would be for them. Definitely recommend getting all your gear elsewhere. Yet staff were working like ninjas, just need double the amount to do appropriate service in reasonable time.
+
+Racecourse run was closed ‘until the weekend’ due to staff…Awesome..9 hour drive from Port Macquarie .. next Time we’ll just pay the extra and head to Perisher if you want a decent run. I know things depends on weather and snow cover, that’s beyond managements control yet staffing which limits full joy of the resort is pretty poor form. Great front run for the newbies or young ones though👍🏼",994,NEGATIVE,0.5777860879898071
+259,Selwyn,799.0,3.9,"I was on the ski slope (not actually in the middle), with my little 4 yrs old to wait for My husband was skiiing with the 6 yrs old. He came behind me and yelled at me “out of the ski slope its not the picnic place”. I asked him who said i can’t sit here: no sign said i can’t stay here. And i paid to come here! He said he is Ben , instructor. What a powerful instructor!!! Yeeeh i never let my kids to have lesson here ever! So rude!!!!
+Ben is in the photo",458,NEGATIVE,0.9618619680404664
+260,Selwyn,799.0,3.9,"Tobogganing is great fun for little people
+Be prepared because hire gear is costly
+Very family friendly
+Great access driving wise and car parking
+We hired snow chain although advised our 4WD could get there and back easily without (from Cooma)",243,POSITIVE,0.7559851408004761
+261,Selwyn,799.0,3.9,"The best ski resort we’ve ever been to!
+Everyone we met was incredibly friendly and welcoming. It’s the most beginner-friendly ski resort in NSW. My kids and I took lessons with Ben, Josh, Julia, and Gilbert — all of them were fantastic. They’re not only talented instructors, but they also went above and beyond to make sure we felt confident and safe on the slopes. Thanks to them, we’ve all become much better (and safer!) skiers. ⛷️",436,POSITIVE,0.9998538494110109
+262,Selwyn,799.0,3.9,Chaos. Toilets bad. Lines like airports with 2 hour waits. Missed lessons everywhere. People complaining. Broken ticket machines. No one in control. Good luck people.,166,NEGATIVE,0.9995527863502502
+263,Selwyn,799.0,3.9,Great place to learn to ski as more affordable than the bigger resorts. But are short on staff and often snow as well. Be much better if they could open all the lifts and runs.,176,NEGATIVE,0.9876383543014526
+264,Selwyn,799.0,3.9,"My family had a great couple of days skiing and tobogganing at Selwyn Snow Resort. It was easy to drive to and park, and has nice new amenities. It was easy to book lift passes, lessons and hire gear online. The staff were very friendly and helpful, especially Ana who gave us beginner ski lessons over the last 2 days. We learnt heaps and gained confidence on the slopes. I highly recommend Selwyn as an affordable, easily accessible option, particularly for beginners and families.",483,POSITIVE,0.9997803568840028
+265,Selwyn,799.0,3.9,One of the very best resorts I’ve been in NsW. Definitely recommend family and friends to visit.,96,POSITIVE,0.999871015548706
+266,Selwyn,799.0,3.9,"We visited on a Monday in school holidays and had a great time as a family. Arriving at 9:30 and found staff to be incredibly helpful as first timers not knowing our way. At the start of the day it was still foggy and the toboggan park was quiet with a lovely layer of soft white snow. As the day progressed it did get busier and a bit slushy around the bottom but not the end of the world.
+Our only gripe about the whole day was the food hall not being monitored for table hoggers. Setting themselves up for the whole day, with bags of food, packets of ramen etc... Obviously not buying food from the kiosk. So we stood there with $80 worth hot food and balanced it whilst eating.
+
+I suggest you bag up their items, take it to lost property and service the paying customers.",775,POSITIVE,0.9686309099197388
+267,Selwyn,799.0,3.9,"Crowd management was poor!
+2 terminal out of 3 were out of order to get lift tickets
+Lucky we had our own ski gear as the hire queue was also at least a hour long
+Lunch time had a long queue and only 2 people making food, they kept running out stuff!
+Also needs lots more seating as many hogged seats with their gear while skiing and doing other things
+Won’t be back in a hurry",377,NEGATIVE,0.9995160102844238
+268,Selwyn,799.0,3.9,"Small but amazing. Love the ""magic carpet"" for my daughter. Was only there for 2 hours and will stay longer next time for sure. Not much mountain driving to get there and a bonus sighting of Brumbies!!!!",203,NEGATIVE,0.9628329277038574
+269,Selwyn,799.0,3.9,"Love this place! Perfect spot to learn to ski or snowboard with the fantastic international instructors. We had Chrisy from Munich, Germany. She is a legend, so good with the kids. I'm heading back today, I have to retrieve my snowboard.",237,POSITIVE,0.9998548030853271
+270,Selwyn,799.0,3.9,Absolutely fantastic resort for families and those learning to ski!! Less busy than other resorts too!,102,POSITIVE,0.9997076392173768
