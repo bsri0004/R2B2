@@ -5,6 +5,9 @@
 
 # Temp files
 ~$*
+
+# Sandbox
+sandbox.*
 src/corpus_baw_baw_mod.gensim
 src/corpus_baw_baw_mod.gensim.expElogbeta.npy
 src/corpus_baw_baw_mod.gensim.id2word
