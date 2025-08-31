@@ -1,10 +1,10 @@
-Resort,sentiment_ratio
-Charlotte Pass,1.4166666666666667
-Falls Creek,4.0
-Mt. Baw Baw,2.0
-Mt. Hotham,5.2
-Mt. Buller,29.0
-Mt. Stirling,6.5
-Perisher,1.1428571428571428
-Selwyn,1.0
-Thredbo,4.0
+Resort,sentiment_ratio,season_price,day_price
+Charlotte Pass,1.4166666666666667,1759.0,175.0
+Falls Creek,4.0,1379.0,177.0
+Mt. Baw Baw,2.0,555.0,79.0
+Mt. Hotham,5.2,1379.0,186.0
+Mt. Buller,29.0,1649.0,126.0
+Mt. Stirling,6.5,959.0,67.0
+Perisher,1.1428571428571428,1379.0,183.0
+Selwyn,1.0,799.0,119.0
+Thredbo,4.0,1850.0,209.0
