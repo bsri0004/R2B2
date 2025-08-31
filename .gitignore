@@ -5,3 +5,6 @@
 
 # Temp files
 ~$*
+
+# Sandbox
+sandbox.*
